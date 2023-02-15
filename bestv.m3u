@@ -104,7 +104,7 @@ http://frankfwang.synology.me:9000/live.m3u8?c=4
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台
 http://2023.stream-link.org/playlist/global_news
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://121.51.249.6/livehkkp.chinamcache.com/live/test1_4000.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://121.51.249.6/livehkkp.chinamcache.com/live/test2_4000.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",#翡翠台
