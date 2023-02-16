@@ -117,6 +117,27 @@ http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视台
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
+#EXTINF:-1,tvg-id="长城精品" tvg-name="长城精品" tvg-logo="https://epg.112114.xyz/logo/长城精品.png" group-title="其他",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8 
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8 
+#EXTINF:-1,tvg-id="长城精品" tvg-name="长城精品" tvg-logo="https://epg.112114.xyz/logo/长城精品.png" group-title="港澳台",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8 
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
+
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://n.ysyz.top:99/buyaolian/qsjl.png" group-title="影视",求索纪录
 http://39.135.7.132:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://n.ysyz.top:99/buyaolian/qsdw.png" group-title="影视",求索动物
@@ -153,16 +174,6 @@ http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
 http://123.51.230.108:18509/playlist.m3u8
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="卫视",劲爆体育
 http://192.168.31.64:6789/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA League Pass",NBA TV
-http://194.40.240.183:25461/3397537295/4538699784/55195
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="NBA League Pass",ABC
-http://194.40.240.183:25461/3397537295/4538699784/54062
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/140-1402483_logo-espn-2-png-transparent-png.png" group-title="NBA League Pass",ESPN
-http://194.40.240.183:25461/3397537295/4538699784/53403
-#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/SDvVNFZEZMHDBqEayeR7ZG.png" group-title="NBA League Pass",TNT
-http://194.40.240.183:25461/3397537295/4538699784/53315
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png" group-title="NBA League Pass",NBA Los Angeles Lakers
-http://194.40.240.183:25461/3397537295/4538699784/55175
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕24小时体育台
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕1
