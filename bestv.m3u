@@ -151,6 +151,8 @@ http://123.51.230.108:18509/playlist.m3u8
 http://192.168.31.64:6789/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1, group-title="卫视",WWE
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="体育-腾讯直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",腾讯NBA
+https://txycdn.video.qq.com/1371587703.m3u8?from=player&time=1676773901&cdn=tcloud&sdtfrom=v402212&platform=10201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIH6uc0p6uaXHSqPB_xkI64E4CZ87N5Xr654CcjBIipewEFOFURUHo6odmP4fJ-A0CbgBQNFGQlb3_SVWYvaWeKHvgfP1KMES-PAJrdfQYU4NA2dwsikTZnR1lcJNwekrZjcSEtTE9WyLvctrBogAdts_Aas6zjapFsAG2yEYYX0fo_IJf9MhRFkBN69hU9xWpRVD_Gedqc4YTf_90P7zFsMkwq-qO5GUr-ebML-Irz4CM6u3-lPX3eAIFRjO7hmaun1OgYdbqK1ZTEJEzguqLrXTMn5x8MTCj_I0cAevcW5t1thxMwdQtTw6RKYQZYzZZ7KcI3hbsySYg0P8M3G5SHngLI4_g9iBU91JqQVzdOSG1405UmIY-JctvmSglRtvZi7CIgBVZQdoMDHcMGHtKi3xODHUxPTpUtbxeiDPCuRmwTsL_h5YI9v7HbNdZRgoZ8YwfpaFrfhXZXKq6bt5INdT_Sgp8W8ovvzP-_pHivCO2elv&drmtype=0
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕24小时体育台
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕1
