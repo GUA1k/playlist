@@ -104,8 +104,6 @@ http://192.168.31.64:6789/bestv.php?id=hainanwshd8m/8000000
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="卫视",梨园频道
 http://192.168.31.64:6789/sxg.php?id=ly_4000
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台
-http://frankfwang.synology.me:9000/live.m3u8?c=4
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台
 http://2023.stream-link.org/playlist/global_news
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://192.168.31.64:6789/sxg.php?id=test1_4000
@@ -156,7 +154,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕24小时体育台
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕1
-http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+http://117.136.156.66:80/000000001001/3000000001000028638/1.m3u8
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕2
 http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕3
