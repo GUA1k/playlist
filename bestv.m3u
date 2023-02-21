@@ -37,15 +37,15 @@ http://192.168.31.64:6789/bestv.php?id=cctv15hd8m/8000000
 http://192.168.31.64:6789/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17 8M
 http://192.168.31.64:6789/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="其他",4K超高清电影 4K
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="影视",4K超高清电影 4K
 http://192.168.31.64:6789/sxg.php?id=emdy4k_8000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4k
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="影视",欢笑剧场4k
 http://192.168.31.64:6789/bestv.php?id=hxjc4k/15000000
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
 http://121.51.249.6/livehkkp.chinamcache.com/live/jbtygqCHCjtyyH265_4000.m3u8
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
 http://121.51.249.6/livehkkp.chinamcache.com/live/lnwsCHC-HDH265_4000.m3u8
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://121.51.249.6/livehkkp.chinamcache.com/live/wqCHCdzdyH265_4000.m3u8
 #EXTINF:-1,tvg-id="M1905" tvg-name="M1905" tvg-logo="https://img.zcool.cn/community/016b1e55c2cd7932f87528a150ecc9.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/format,webp/quality,q_100" group-title="影视",M1905电影网
 http://120.220.38.26/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
@@ -113,7 +113,7 @@ http://192.168.31.64:6789/sxg.php?id=test2_4000
 http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实 8M
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="影视",金鹰纪实 8M
 http://192.168.31.64:6789/bestv.php?id=jyjs8m/8000000
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
