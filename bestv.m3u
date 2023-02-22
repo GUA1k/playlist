@@ -109,7 +109,32 @@ http://2023.stream-link.org/playlist/global_news
 http://192.168.31.64:6789/sxg.php?id=test1_4000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://192.168.31.64:6789/sxg.php?id=test2_4000
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="影视",金鹰纪实 8M
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="其他",寰宇新闻台
+http://192.168.31.64:35455/youtube/B7Zp3d6xXWw
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
+http://192.168.31.64:35455/youtube/2mCSYvcfhtc
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS NEWS
+http://192.168.31.64:35455/youtube/5yfiy9GUYT4
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻台
+http://192.168.31.64:35455/youtube/xL0ch83RAK8
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新闻直播
+http://192.168.31.64:35455/youtube/wM0g8EoUZ_E
+#EXTINF:-1,tvg-id="三立 iNEWS新闻" tvg-name="三立 iNEWS新闻" tvg-logo="https://epg.112114.xyz/logo/三立INEWS新闻.png" group-title="其他",三立 iNEWS新闻
+http://192.168.31.64:35455/youtube/CKjSm5ZeehE
+#EXTINF:-1,tvg-id="三立海外直播" tvg-name="三立海外直播" tvg-logo="https://epg.112114.xyz/logo/三立海外直播.png" group-title="其他",三立海外直播
+http://192.168.31.64:35455/youtube/FoBfXvlOR6I
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="其他",中天新闻
+http://192.168.31.64:35455/youtube/_QbRXRnHMVY
+#EXTINF:-1,tvg-id="中天亞洲台HD" tvg-name="中天亞洲台HD" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" group-title="其他",中天亞洲台HD
+http://192.168.31.64:35455/youtube/oPx1u9WQrWg
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
+http://192.168.31.64:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1,tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://epg.112114.xyz/logo/台視新聞台.png" group-title="其他",台視新聞台
+http://192.168.31.64:35455/youtube/xL0ch83RAK8
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新闻
+http://192.168.31.64:35455/youtube/wM0g8EoUZ_E
+#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="香港",凤凰卫视
+http://192.168.31.64:35455/youtube/dmDg7NfUoSw#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="影视",金鹰纪实 8M
 http://192.168.31.64:6789/bestv.php?id=jyjs8m/8000000
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
