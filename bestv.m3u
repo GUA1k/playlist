@@ -1,6 +1,30 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 #EXTM3U
+#EXTINF:-1,凤凰中文
+http://livehkkp.chinamcache.com/live/test1_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,凤凰资讯
+http://livehkkp.chinamcache.com/live/test2_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,梨园频道
+http://livehkkp.chinamcache.com/live/ly_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,武术世界
+http://livehkkp.chinamcache.com/live/wssj_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,4K超高清电影 4K
+http://livehkkp.chinamcache.com/live/emdy4k_8000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,CHC家庭影院
+http://livehkkp.chinamcache.com/live/jbtygqCHCjtyyH265_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,CHC高清电影
+http://livehkkp.chinamcache.com/live/lnwsCHC-HDH265_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,CHC动作电影
+http://livehkkp.chinamcache.com/live/wqCHCdzdyH265_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,CBN幸福剧场
+http://livehkkp.chinamcache.com/live/xfjc_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,CBN每日影院
+http://livehkkp.chinamcache.com/live/mryy_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,CBN幸福娱乐
+http://livehkkp.chinamcache.com/live/xfyl_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
+#EXTINF:-1,CBN风尚生活
+http://livehkkp.chinamcache.com/live/fssh_4000.m3u8|Referer="https://web.hkkp.cnscn.com/sltv_html/165/165kds/2439579.shtml"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 http://192.168.31.64:6789/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
