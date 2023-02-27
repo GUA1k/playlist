@@ -150,6 +150,10 @@ http://epg.112114.xyz/douyu/6140589
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/5c/32f9f03466c469cbac8345444dd6fd_180_135.jpg?1582015720&465534" group-title="影视",周星驰
 http://192.168.31.64:35455/huya/11342412
+#EXTINF:-1  group-title="影视",豆瓣高分：
+http://192.168.31.64:35455/douyu/8770422
+#EXTINF:-1  group-title="影视",王晶作品：
+http://192.168.31.64:35455/huya/11602058
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
 http://192.168.31.64:35455/huya/11342386
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=838445859,209975853&fm=253&fmt=auto&app=138&f=PNG?w=220&h=203" group-title="影视",洪金宝
