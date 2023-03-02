@@ -105,7 +105,7 @@ http://192.168.31.64:6789/bestv.php?id=gzwshd8m/8000000
 http://192.168.31.64:6789/bestv.php?id=hainanwshd8m/8000000
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="卫视",梨园频道
 http://fxhack.f3322.org:8000/udp/239.77.1.100:5146
-http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+http://lu1.cc/itv/hntv/hntv.php?id=hnly
 #EXTINF:-1 tvg-logo="https://tvos.ml/logo/CN/地区/安徽/安徽.经济生活.png" tvg-id="安徽.经济生活" group-title="安徽",安徽 经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 #EXTINF:-1 tvg-logo="https://tvos.ml/logo/CN/地区/安徽/安徽.影视频道.png" tvg-id="安徽.影视频道" group-title="安徽",安徽 影视频道
