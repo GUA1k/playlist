@@ -135,6 +135,32 @@ http://192.168.31.64:35455/youtube/_QbRXRnHMVY
 http://192.168.31.64:35455/youtube/oPx1u9WQrWg
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
 http://192.168.31.64:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="港澳台",HOY TV
+https://cdn.hklive.tv/xxxx/77/index.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://www.hklive.tv/png_logo/78.png" group-title="港澳台",HOY TV 資訊台
+https://cdn.hklive.tv/xxxx/78/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hklive.tv/png_logo/81.png" group-title="港澳台",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png" group-title="港澳台",明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hklive.tv/png_logo/85.png" group-title="港澳台",無綫財經·資訊台
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hklive.tv/png_logo/82.png" group-title="港澳台",J2台
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.hklive.tv/png_logo/83.png" group-title="港澳台",無綫新聞台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="港澳台",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hklive.tv/png_logo/99.png" group-title="港澳台",ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="有線 財經資訊台" tvg-logo="https://www.hklive.tv/png_logo/108.png" group-title="港澳台",有線 財經資訊台
+https://cdn.hklive.tv/xxxx/108/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="有線 新聞台" tvg-logo="https://www.hklive.tv/png_logo/109.png" group-title="港澳台",有線 新聞台
+https://cdn.hklive.tv/xxxx/109/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="有線 直播新聞台" tvg-logo="https://www.hklive.tv/png_logo/110.png" group-title="港澳台",有線 直播新聞台
+https://cdn.hklive.tv/xxxx/110/index.m3u8
+#EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://www.hklive.tv/png_logo/332.png" group-title="港澳台",Now 新聞台
+https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="影视",金鹰纪实 8M
 http://192.168.31.64:6789/bestv.php?id=jyjs8m/8000000
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
