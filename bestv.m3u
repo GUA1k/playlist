@@ -163,6 +163,14 @@ https://cdn.hklive.tv/xxxx/110/index.m3u8
 https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="影视",金鹰纪实 8M
 http://192.168.31.64:6789/bestv.php?id=jyjs8m/8000000
+#EXTINF:-1 tvg-id="63809" tvg-name="National Geographic HD" tvg-logo="https://media.info/i/lf/300/1644358707/1077.png" group-title="影视",国家地理频道
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941665
+#EXTINF:-1 tvg-id="63810" tvg-name="Nat Geo Wild HD" tvg-logo="https://media.info/i/lf/300/1405279177/1125.png" group-title="影视",国家地理野生频道
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941664
+#EXTINF:-1 tvg-id="63808" tvg-name="BBC Earth HD" tvg-logo="https://media.info/i/lf/300/1641979823/6953.png" group-title="影视",BBCEarth
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941667
+#EXTINF:-1 tvg-id="63813" tvg-name="BBC Lifestyle HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="影视",BBCLifestyle
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941668
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
@@ -187,6 +195,28 @@ http://192.168.31.64:35455/huya/11352935
 http://192.168.31.64:35455/huya/24766781
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/63/61893d4ab1c814538fece254bdb9bb_180_135.jpg?1657822084&465534" group-title="影视",林正英
 http://192.168.31.64:35455/huya/11342421
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.112114.xyz/logo/HBO.png" group-title="影视",HBO
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941648
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="https://upload.112114.xyz/logo/HBO%20Hits.png" group-title="影视",HBO Hits
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941647
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://upload.112114.xyz/logo/HBO%20Family.png" group-title="影视",HBO Family
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941646
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD"  tvg-logo="https://upload.112114.xyz/logo/HBO%20Signature.png" group-title="影视",HBO Signature
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941645
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="影视",Cinemax
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941659
+#EXTINF:-1 tvg-id="" tvg-name="SCM HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="影视",卫视电影台
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941625
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Channel HD" tvg-logo="https://upload.112114.xyz/logo/STARCHINESE.png" group-title="影视",卫视中文台
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941624
+#EXTINF:-1 tvg-id="63803" tvg-name="Celestial Movies HD" tvg-logo="https://iptv-pro.github.io/logo/tianying.png" group-title="影视",天映电影
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941618
+#EXTINF:-1 tvg-id="63804" tvg-name="CCM" tvg-logo="https://iptv-pro.github.io/logo/tianyingjd.png" group-title="影视",天映经典
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941639
+#EXTINF:-1 tvg-id="63792" tvg-name="Hub E City HD" tvg-logo="https://i.imgur.com/UscuzZm.png" group-title="影视",HUB都会
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941632
+#EXTINF:-1 tvg-id="63800" tvg-name="Hub VVDrama HD" tvg-logo="https://i.imgur.com/7iYCNKa.png" group-title="影视",HUB娱家
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941634
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
 http://59.32.98.189:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
@@ -201,6 +231,20 @@ http://192.168.31.64:6789/bestv.php?id=xsjhd8m/8000000
 http://192.168.31.64:6789/bestv.php?id=zqpd8m/8000000
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球 8M
 http://192.168.31.64:6789/bestv.php?id=mlyyhd8m/8000000
+#EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="体育",NBA TV
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941562
+#EXTINF:-1 tvg-id="63758" tvg-name="beIN SPORTS HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="体育",beIN SPORTS 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941569
+#EXTINF:-1 tvg-id="63756" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG2.png" group-title="体育",beIN SPORTS 2
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941568
+#EXTINF:-1 tvg-id="63759" tvg-name="beIN Sports 3" tvg-logo="https://upload.112114.xyz/logo/BEINENG3.png" group-title="体育",beIN SPORTS 3
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941567
+#EXTINF:-1 tvg-id="63747" tvg-name="Hub Sports 1 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="体育",Hub Sports 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941573
+#EXTINF:-1 tvg-id="63748" tvg-name="Hub Sports 2 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="体育",Hub Sports 2
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941572
+#EXTINF:-1 tvg-id="63750" tvg-name="Hub Sports 4 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="体育",Hub Sports 4
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941571
 #EXTINF:-1, group-title="体育",WWE
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕24小时体育台
