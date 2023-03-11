@@ -115,6 +115,14 @@ http://192.168.31.64:35455/youtube/B7Zp3d6xXWw
 http://192.168.31.64:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
 http://192.168.31.64:35455/youtube/2mCSYvcfhtc
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
+http://192.168.31.64:35455/youtube/YvdcZ_jpLXE
+#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="其他",東森新聞
+http://192.168.31.64:35455/youtube/R2iMq5LKXco
+#EXTINF:-1,tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞.png" group-title="其他",東森財經新聞
+http://192.168.31.64:35455/youtube/WHEPzbFA3hw
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://r.jdshipin.com/62WM7
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻台
 http://192.168.31.64:35455/youtube/xL0ch83RAK8
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新闻直播
