@@ -138,7 +138,7 @@ http://192.168.31.64:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="影视",金鹰纪实 8M
 http://192.168.31.64:6789/bestv.php?id=jyjs8m/8000000
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
-http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+http://epg.112114.xyz/douyu/2901080
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
 http://epg.112114.xyz/douyu/3243427
 #EXTINF:-1 tvg-logo="https://imgo.hackhome.com/img2021/6/30/18/15598076.jpg" group-title="影视",漫威电影
@@ -170,17 +170,19 @@ http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
 https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育 8M
-http://192.168.31.64:6789/bestv.php?id=wxtyhd8m/8000000
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="体育",新视觉 8M
-http://192.168.31.64:6789/bestv.php?id=xsjhd8m/8000000
+https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",足球高清 8M
-http://192.168.31.64:6789/bestv.php?id=zqpd8m/8000000
+https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球 8M
-http://192.168.31.64:6789/bestv.php?id=mlyyhd8m/8000000
+https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="体育",NBA TV
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941562
 #EXTINF:-1, group-title="体育",WWE
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1, group-title="体育",WWE1
+http://192.168.31.64:35455/huya/880223
 #EXTINF:-1 group-title="体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕24小时体育台
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1
