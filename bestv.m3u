@@ -185,14 +185,14 @@ http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r4/dfl/wuxingtiyuhd/3000/inde
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",足球高清 8M
 https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球 8M
-http://223.109.33.33/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
-#EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="体育",NBA TV
-http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941562
+#EXTINF:-1, group-title="体育",北京8K测试
+http://downlive.brtvcloud.com/8k1010/tebieniu.m3u8
 #EXTINF:-1, group-title="体育",WWE
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, group-title="体育",WWE1
 http://192.168.31.64:35455/huya/880223
+#EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="starhub+astro+sports",NBA TV
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&extension=ts&stream=941562
 #EXTINF:-1 group-title="体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕24小时体育台
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1
