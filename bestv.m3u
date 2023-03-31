@@ -287,3 +287,62 @@ http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000
 http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000021904&livemode=1&stbId=2&channel-id=FifastbLive
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-27
 http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000023434&livemode=1&stbId=2&channel-id=FifastbLive
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836371&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836369&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836368&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836367&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836366&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 9
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836365&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA LIVE 10
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836364&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY INFO
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040606&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY HIGHLIGHTS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040605&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040604&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040603&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040602&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040601&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040600&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040599&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040598&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040597&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 9
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040596&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 10
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040595&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 11
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040594&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 12
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040593&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 13
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040592&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 14
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040591&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 15
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040590&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 16
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040589&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="starhub+astro+sports",NBA REPLAY 17
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040588&extension=ts
