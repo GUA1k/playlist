@@ -44,11 +44,11 @@ http://124.236.39.143/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/150000
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4k
 http://124.236.39.143/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
-http://171.108.239.26:8181/tsfile/live/1003_1.m3u8
+http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
-http://171.108.239.26:8181/tsfile/live/1004_1.m3u8
+http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
-http://171.108.239.26:8181/tsfile/live/1002_1.m3u8
+http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视",黑莓电影
 http://117.169.124.149:8080/live/jdianying/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="影视",NewTV动作电影
@@ -215,6 +215,8 @@ http://120.84.96.82:808/hls/33/index.m3u8
 http://120.84.96.82:808/hls/35/index.m3u8
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
 http://iptva.cn/api/M3u8/Index?id=999&card=99982475359
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
+http://124.222.238.146:1125/m3u8.php?/iTouchTV/1184/playlist.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 http://123.51.230.108:18509/.m3u8
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
