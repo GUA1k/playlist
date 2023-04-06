@@ -44,11 +44,11 @@ https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4k
 https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视",黑莓电影
 http://117.169.124.149:8080/live/jdianying/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="影视",NewTV动作电影
@@ -105,6 +105,8 @@ https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
 https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视 8M
 https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1,tvg-id="清华大学电视台" tvg-name="清华大学电视台" tvg-logo="https://epg.112114.xyz/logo/清华大学电视台.png" group-title="卫视",清华大学电视台
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="卫视",梨园频道
 http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="卫视",梨园频道
@@ -193,6 +195,8 @@ http://192.168.31.64:35455/huya/11342424
 http://192.168.31.64:35455/douyu/3379942
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
 http://192.168.31.64:35455/huya/11342386
+#EXTINF:-1  group-title="影视",邵氏电影
+http://192.168.31.64:35455/douyu/4246519
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=838445859,209975853&fm=253&fmt=auto&app=138&f=PNG?w=220&h=203" group-title="影视",洪金宝
 http://192.168.31.64:35455/huya/11279251
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=2465710876,2550461123&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=710" group-title="影视",甄子丹
@@ -201,6 +205,8 @@ http://192.168.31.64:35455/huya/11352935
 http://192.168.31.64:35455/douyu/8770422
 #EXTINF:-1  group-title="影视",王晶作品
 http://192.168.31.64:35455/huya/11602058
+#EXTINF:-1  group-title="影视",许氏三杰
+http://192.168.31.64:35455/huya/11602033
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/63/61893d4ab1c814538fece254bdb9bb_180_135.jpg?1657822084&465534" group-title="影视",林正英
 http://192.168.31.64:35455/huya/11342421
 #EXTINF:-1 tvg-logo="" group-title="影视",荒野求生
