@@ -151,6 +151,8 @@ http://124.232.233.6:6060/000000001001/201600020008/index.m3u8?m3u8_level=2
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="卫视",梨园频道
 http://yuwentao114.f3322.net:4022/udp/239.252.220.179:5140
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="卫视",梨园频道
+http://wh.re168.com:8089/udp/239.69.1.33:9838
 #EXTINF:-1,tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png" group-title="卫视",河南戏曲
 http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
