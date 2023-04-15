@@ -218,9 +218,7 @@ rtmp://9wv7.mine.nu/sat/tv051
 #EXTINF:-1,tvg-id="三立海外直播" tvg-name="三立海外直播" tvg-logo="https://epg.112114.xyz/logo/三立海外直播.png" group-title="港澳台",三立海外直播
 http://192.168.31.64:35455/youtube/FoBfXvlOR6I
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港澳台",中天新闻
-http://192.168.31.64:35455/youtube/_QbRXRnHMVY
-#EXTINF:-1,tvg-id="中天亞洲台HD" tvg-name="中天亞洲台HD" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" group-title="港澳台",中天亞洲台HD
-http://192.168.31.64:35455/youtube/oPx1u9WQrWg
+http://192.168.31.64:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
 http://192.168.31.64:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
