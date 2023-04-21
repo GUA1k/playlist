@@ -287,7 +287,60 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 http://192.168.31.64:35455/huya/880223
 #EXTINF:-1, group-title="体育",TNA搏击
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-2
+http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-3
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-4
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-5
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-6
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-7
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-8
+http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-9
+http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-10
+http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-11
+http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-12
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-13
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-14
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-15
+http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-16
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-17
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-18
+http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-19
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-20
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-21
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-22
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-23
+http://gslbserv.itv.cmvideo.cn:80/3000000001000026778/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000026778&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-24
+http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-25
+http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-26
+http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-27
+http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="47140" tvg-name="NBA TV (i)" group-title="Deportes",NBA TV (i)
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/47140
 #EXTINF:-1 tvg-id="2066" tvg-name="NBA: TrailBlazers" tvg-logo="https://panel.budtv-ultra.com/posters/1670787514580.png" group-title="NBA",NBA: TrailBlazers
@@ -350,57 +403,3 @@ http://45.90.105.74:25461/bbv1/4QKmSRxShA/3300
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/38766
 #EXTINF:-1 tvg-id="38786" tvg-name="NBA: Hawks" tvg-logo="https://panel.budtv-ultra.com/posters/1670788431292.png" group-title="NBA",NBA: Hawks
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/38786
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000005969&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-2
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000007218&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-3
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000008001&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-4
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000008176&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-5
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000010129&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-6
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000010948&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-7
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000012558&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-8
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000025380&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-9
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000031494&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-10
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000003915&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-11
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000027691&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-12
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000015560&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-13
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000011297&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-14
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000006077&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-15
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000000097&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-16
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000002809&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-17
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000002019&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-18
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000004193&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-19
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000005308&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-20
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000005837&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-21
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000006658&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-22
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000008379&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-23
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000026778&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-24
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000028638&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-25
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000010833&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-26
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000021904&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-27
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000023434&livemode=1&stbId=2&channel-id=FifastbLive
