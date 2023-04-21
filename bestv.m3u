@@ -159,10 +159,18 @@ http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 https://live.v1.mk/api/fjgd.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://live.v1.mk/api/fjgd.php?id=fhzx
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港", 凤凰香港
+http://120.84.96.82:808/hls/81/index.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="港澳台",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="港澳台",有线财经资讯台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
+http://09.xinda.fit/news.php?=0qh
+#EXTINF:-1,tvg-id="财经体育新闻" tvg-name="财经体育新闻" tvg-logo="https://epg.112114.xyz/logo/财经体育新闻.png" group-title="其他",财经体育新闻
+http://120.84.96.82:808/hls/86/index.m3u8
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="港澳台",寰宇新闻台
 http://192.168.31.64:35455/youtube/B7Zp3d6xXWw
 #EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="港澳台",镜新闻
@@ -179,10 +187,6 @@ http://192.168.31.64:35455/youtube/R2iMq5LKXco
 http://192.168.31.64:35455/youtube/WHEPzbFA3hw
 #EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="港澳台",东森超视
 rtmp://9wv7.mine.nu/sat/tv331
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
-http://09.xinda.fit/news.php?=0qh
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻台
 http://192.168.31.64:35455/youtube/xL0ch83RAK8
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
