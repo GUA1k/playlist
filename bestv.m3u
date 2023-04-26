@@ -232,6 +232,8 @@ http://yzfvip.top:8000/rtp/239.77.0.112:5146
 http://123.51.230.108:18509/.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
+#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.112114.xyz/logo/TNT.png" group-title="其他",TNT
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730
 #EXTINF:-1 tvg-id="47140" tvg-name="NBA TV" group-title="Deportes",NBA TV
 http://143.244.60.97/NBATV/index.m3u8#
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
