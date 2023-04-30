@@ -113,6 +113,8 @@ http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 http://xstartx.com:4000/udp/239.93.1.9:2192
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://xstartx.com:4000/udp/239.93.0.118:2191
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="港澳台",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="港澳台",有线财经资讯台
@@ -241,6 +243,16 @@ rtmp://9wv7.mine.nu/sat/tv761
 rtmp://9wv7.mine.nu/sat/tv731
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="港澳台",ELEVEN体育2
 rtmp://9wv7.mine.nu/sat/tv741
+#EXTINF:-1,tvg-id="DIGI 4K" tvg-name="DIGI 4K" tvg-logo="https://epg.112114.xyz/logo/DIGI4K.png" group-title="其他",DIGI 4K
+http://84.17.61.203:8086/udp/238.2.148.202:1234
+#EXTINF:-1,tvg-id="DIGI sport 1" tvg-name="DIGI sport 1" tvg-logo="https://epg.112114.xyz/logo/DIGISPORT1.png" group-title="其他",DIGI sport 1
+http://84.17.61.203:8086/udp/238.2.25.79:1234
+#EXTINF:-1,tvg-id="DIGI sport 2" tvg-name="DIGI sport 2" tvg-logo="https://epg.112114.xyz/logo/DIGISPORT2.png" group-title="其他",DIGI sport 2
+http://84.17.61.203:8086/udp/238.2.25.78:1234
+#EXTINF:-1,tvg-id="DIGI sport 3" tvg-name="DIGI sport 3" tvg-logo="https://epg.112114.xyz/logo/DIGISPORT3.png" group-title="其他",DIGI sport 3
+http://84.17.61.203:8086/udp/238.2.25.90:1234
+#EXTINF:-1,tvg-id="DIGI sport 4" tvg-name="DIGI sport 4" tvg-logo="https://epg.112114.xyz/logo/DIGISPORT4.png" group-title="其他",DIGI sport 4
+http://84.17.61.203:8086/udp/238.2.27.151:1234
 #EXTINF:-1, group-title="体育",WWE
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, group-title="体育",WWE1
