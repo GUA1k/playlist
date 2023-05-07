@@ -227,10 +227,6 @@ http://yzfvip.top:8000/rtp/239.77.0.112:5146
 http://123.51.230.108:18509/.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 rtmp://9sv2.mine.nu/sat/tv721
-#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.112114.xyz/logo/TNT.png" group-title="其他",TNT
-http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730
-#EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="其他",ESPN
-http://45.90.105.74:25461/bbv1/4QKmSRxShA/2258
 #EXTINF:-1 tvg-id="47140" tvg-name="NBA TV" tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="Deportes",NBA TV
 http://143.244.60.97/NBATV/index.m3u8#
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
@@ -356,9 +352,3 @@ http://39.136.33.66:6610/000000001001/3000000010000031669/index.m3u8?channel-id=
 #EXTINF:-1,tvg-id="咪咕直播-53" tvg-name="咪咕直播-53" tvg-logo="https://epg.112114.xyz/logo/咪咕直播53.png" group-title="其他",咪咕直播-53
 http://39.136.33.66:6610/000000001001/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="NBA季后赛",咪咕中文
-http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="NBA季后赛",腾讯中文
-https://txycdn.video.qq.com/1758567723.m3u8?from=player&time=1683416866&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIOom6KoUJmr9VWhYTZJ-GW4R-7GLnizTGg53JoKv3puTEP2gAI_1cUQOtb_Rw8kvFJcBUPfFXDpmtuOvyAkUpBkkv-HuIHiEvMnH535xxZzBp82e7MdeR7bl2pYcxQjztsfX36Ms6Lh_ny6ipUMwvw_NmiCFzQQzB5cHbgRwBPssZizJ5Br3gon_DwEa_9FGXp2g0epmx_Q8a9PDuz5dVcXPUjHdygrJQ2xYeT3WnY7WTr_AwD0_mq4EReBdhKfIQ9nzmHSiq99v54kOHM3Ioe_MhwwYKjH86iITI9XkXqrCAMzEcUpEbFQHSV-k5IlhjRQ98xtmBVtSPAOtWEpJs2hN3B_DpwZD6wD4oIQsXJTQD2Ry92PQt0vk4f4Nmd-iKNy6rfl2p1F3692IkshFrYKlq7WeYQQVc8YyAM_aYLl3j7JlSeWUjUWdgtx28E8xuPPzT3U-tN2Gh4pzSufC6vkptNmQrZOZx-COIyq7MxdnhDCMuVyqM36va7AupKOu-rQ8aA==&drmtype=0
-#EXTINF:-1  group-title="鲸鱼",鲸鱼-1
-http://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265.m3u8?auth_key=1683478805-d168a0d78d6d45da8bc2f09e38db41f3-0-cd32c675c6cce6a6a4cb1072bfd616c0
