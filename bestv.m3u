@@ -110,19 +110,17 @@ http://yuwentao114.f3322.net:4022/udp/239.252.220.179:5140
 #EXTINF:-1,tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png" group-title="卫视",河南戏曲
 http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://xstartx.com:4000/udp/239.93.1.9:2192
+http://113.117.74.20:8081/hls/37/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://xstartx.com:4000/udp/239.93.0.118:2191
+http://113.117.74.20:8081/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+http://113.117.74.20:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="港澳台",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="港澳台",有线财经资讯台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://162.19.247.76:22222/live/tvbfc/index.m3u8
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
+http://113.117.74.20:8081/hls/67/index.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
 http://162.19.247.76:22222/live/tvbnews/index.m3u8
 #EXTINF:-1,tvg-id="财经体育新闻" tvg-name="财经体育新闻" tvg-logo="https://epg.112114.xyz/logo/财经体育新闻.png" group-title="港澳台",财经体育新闻
@@ -220,9 +218,9 @@ http://120.84.96.82:808/hls/33/index.m3u8
 #EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="影视",龙祥时代
 http://120.84.96.82:808/hls/35/index.m3u8
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
-http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
-http://204bae1.123nat.com:66/test/gxjd/gxjd.php?id=8
+http://113.117.74.20:8081/hls/1/index.m3u8
+#EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="其他",深圳体育
+http://113.117.74.20:8081/hls/70/index.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 http://123.51.230.108:18509/.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
