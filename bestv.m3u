@@ -131,42 +131,78 @@ http://r.jdshipin.com/vSJvl
 http://162.19.247.76:22222/live/tvbnews/index.m3u8
 #EXTINF:-1,tvg-id="财经体育新闻" tvg-name="财经体育新闻" tvg-logo="https://epg.112114.xyz/logo/财经体育新闻.png" group-title="港澳台",财经体育新闻
 http://120.84.96.82:808/hls/86/index.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="港澳台",寰宇新闻台
-http://192.168.31.64:35455/youtube/B7Zp3d6xXWw
-#EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="港澳台",镜新闻
-http://192.168.31.64:35455/youtube/5n0y6b0Q25o
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
-http://192.168.31.64:35455/youtube/2mCSYvcfhtc
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
-http://192.168.31.64:35455/youtube/YvdcZ_jpLXE
+#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="http://www.stream-link.org/tv_logo/rthk31.png" group-title="港澳台",港台电视31
+https://2022.stream-link.org/list.php?id=h006
+#EXTINF:-1 tvg-id="32" tvg-name="港台电视32" tvg-logo="http://www.stream-link.org/tv_logo/rthk32.png" group-title="港澳台",港台电视32
+https://2022.stream-link.org/list.php?id=h007
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="http://www.stream-link.org/tv_logo/hoy-tv.png" group-title="港澳台",香港開電視
+https://2022.stream-link.org/list.php?id=h010
+#EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="http://www.stream-link.org/tv_logo/hoy-info.png" group-title="港澳台",香港開電視資訊台
+https://2022.stream-link.org/list.php?id=h011
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="http://www.stream-link.org/tv_logo/hkibc.png" group-title="港澳台",香港國際財經台
+https://2022.stream-link.org/list.php?id=h012
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="港澳台",寰宇國際新聞
+https://2022.stream-link.org/list.php?id=t007
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇台灣新聞" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="港澳台",寰宇台灣新聞
+https://2022.stream-link.org/list.php?id=t008
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://www.stream-link.org/tv_logo/tvbs-news.png" group-title="港澳台",TVBS新聞
+https://2022.stream-link.org/list.php?id=t013
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://www.stream-link.org/tv_logo/tvbs.png" group-title="港澳台",TVBS財經
+https://2022.stream-link.org/list.php?id=t014
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐
 rtmp://9wv7.mine.nu/sat/tv421
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="港澳台",東森新聞
-http://192.168.31.64:35455/youtube/R2iMq5LKXco
-#EXTINF:-1,tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞.png" group-title="港澳台",東森財經新聞
-http://192.168.31.64:35455/youtube/WHEPzbFA3hw
+#EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://www.stream-link.org/tv_logo/ebc-news.png" group-title="港澳台",東森新聞
+https://2022.stream-link.org/list.php?id=t001
+#EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://www.stream-link.org/tv_logo/ebc-finance.png" group-title="港澳台",東森財經新聞
+https://2022.stream-link.org/list.php?id=t002
 #EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="港澳台",东森超视
 rtmp://9wv7.mine.nu/sat/tv331
-#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻台
-http://192.168.31.64:35455/youtube/xL0ch83RAK8
+#EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ttv-news.png" group-title="港澳台",台視新聞
+https://2022.stream-link.org/list.php?id=t012
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
 rtmp://9wv7.mine.nu/sat/tv071
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新闻直播
-http://192.168.31.64:35455/youtube/wM0g8EoUZ_E
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cts-news.png" group-title="港澳台",華視新聞
+https://2022.stream-link.org/list.php?id=t004
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
 rtmp://9wv7.mine.nu/sat/tv111
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻
-http://192.168.31.64:35455/youtube/ylYJSBUgaMA
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ftv-news.png" group-title="港澳台",民視新聞
+https://2022.stream-link.org/list.php?id=t006
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视
 rtmp://9wv7.mine.nu/sat/tv051
-#EXTINF:-1,tvg-id="三立海外直播" tvg-name="三立海外直播" tvg-logo="https://epg.112114.xyz/logo/三立海外直播.png" group-title="港澳台",三立海外直播
-http://192.168.31.64:35455/youtube/FoBfXvlOR6I
-#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港澳台",中天新闻
-http://192.168.31.64:35455/youtube/oIgbl7t0S_w
-#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
-http://192.168.31.64:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1 tvg-id="9999" tvg-name="民視第一台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-1.png" group-title="港澳台",民視第一台
+https://2022.stream-link.org/list.php?id=t018
+#EXTINF:-1 tvg-id="9999" tvg-name="民視台灣台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-tw.png" group-title="港澳台",民視台灣台
+https://2022.stream-link.org/list.php?id=t019
+#EXTINF:-1 tvg-id="9999" tvg-name="民視綜藝台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-zy.png" group-title="港澳台",民視綜藝台
+https://2022.stream-link.org/list.php?id=t020
+#EXTINF:-1 tvg-id="9999" tvg-name="民視影劇台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-yj.png" group-title="港澳台",民視影劇台
+https://2022.stream-link.org/list.php?id=t021
+#EXTINF:-1 tvg-id="9999" tvg-name="民視旅遊台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-travel.png" group-title="港澳台",民視旅遊台
+https://2022.stream-link.org/list.php?id=t022
+#EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="http://www.stream-link.org/tv_logo/set-finance.png" group-title="港澳台",三立財經新聞
+https://2022.stream-link.org/list.php?id=t009
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞" tvg-logo="http://www.stream-link.org/tv_logo/set-news.png" group-title="港澳台",三立新聞
+https://2022.stream-link.org/list.php?id=t010
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="http://www.stream-link.org/tv_logo/set-news+.png" group-title="港澳台",三立新聞+
+https://2022.stream-link.org/list.php?id=t011
+#EXTINF:-1 tvg-id="6072" tvg-name="三立台灣" tvg-logo="http://or00.stream-link.org/tv_logo/set-tw.png" group-title="港澳台",三立台灣
+https://2022.stream-link.org/list.php?id=t023
+#EXTINF:-1 tvg-id="6072" tvg-name="三立都會" tvg-logo="http://or00.stream-link.org/tv_logo/set-dh.png" group-title="港澳台",三立都會
+https://2022.stream-link.org/list.php?id=t024
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cti-news.png" group-title="港澳台",中天新聞
+https://2022.stream-link.org/list.php?id=t003
+#EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://www.stream-link.org/tv_logo/cti-zh.png" group-title="港澳台",中天綜合台
+https://2022.stream-link.org/list.php?id=t015
+#EXTINF:-1 tvg-id="9999" tvg-name="中天亞洲台" tvg-logo="http://www.stream-link.org/tv_logo/cti-asia.png" group-title="港澳台",中天亞洲台
+https://2022.stream-link.org/list.php?id=t016
+#EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://www.stream-link.org/tv_logo/ctv-news.png" group-title="港澳台",中視新聞
+https://2022.stream-link.org/list.php?id=t005
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
 rtmp://9wv7.mine.nu/sat/tv091
+#EXTINF:-1 tvg-id="9999" tvg-name="天才衝衝衝" tvg-logo="http://www.stream-link.org/tv_logo/cts-zy.png" group-title="港澳台",天才衝衝衝
+https://2022.stream-link.org/list.php?id=t025
+#EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="http://www.stream-link.org/tv_logo/ebc-yoyo.png" group-title="港澳台",東森yoyo
+https://2022.stream-link.org/list.php?id=t026
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
 http://epg.112114.xyz/douyu/2901080
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
@@ -230,7 +266,7 @@ http://113.117.74.20:8081/hls/70/index.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 http://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
-https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 #EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="体育",爱尔达体育1
 rtmp://9sv2.mine.nu/sat/md031
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="体育",爱尔达体育2
