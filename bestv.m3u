@@ -223,7 +223,6 @@ http://162.19.247.76:22222/live/dsdyt/index.m3u8
 http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1,tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://epg.112114.xyz/logo/东森戏剧台.png" group-title="港澳台",东森戏剧
 http://162.19.247.76:22222/live/dsxj/index.m3u8
-
 #EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="影视",天映经典
 http://120.84.96.82:808/hls/85/index.m3u8
 #EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影台.png" group-title="影视",好莱坞电影
@@ -239,15 +238,17 @@ http://113.117.74.20:8081/hls/1/index.m3u8
 #EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="其他",深圳体育
 http://113.117.74.20:8081/hls/70/index.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
-http://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e9653bd1-30a6-466c-a103-3088948c052d.m3u8
+https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="体育",爱尔达体育1
 rtmp://9sv2.mine.nu/sat/md031
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="体育",爱尔达体育2
 rtmp://9sv2.mine.nu/sat/md021
-#EXTINF:-1 tvg-id="47140" tvg-name="NBA TV" tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="Deportes",NBA TV
-http://143.244.60.97/NBATV/index.m3u8#
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="NBA季后赛",腾讯中文50帧
+https://wscdn.hls.live.video.qq.com/1758753723.m3u8?time=1684540870&cdn=wangsu&sdtfrom=v402212&platform=40201&butype=2&HLSP2P=1&vkey=516065563DC035085AF6FD897A83DCF67A861D7B1393FE457A753E2B386602F841E6EB2696A9BAF038117B72C18164B7A7C4AF916F0B85F652DB430A16ABCCF1C45156FB6B90A81A2FCBDDF5776D1C8AF1877F26CFC8F077E6ABB82C0E0FB9394F7697B7065CDB2F9D48573577F59E6EBF2D5EF384716B77&drmtype=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="NBA季后赛",腾讯中文50帧
+http://txycdn.video.qq.com/1758753723.m3u8?time=1684541666&from=player&cdn=tcloud&sdtfrom=v402242&platform=10204&butype=2&HLSP2P=1&vkey=nvkey_AQQgII5aVEz1OC85SnpsLY8LK0El7iadlnScXLJdnz99Z6TeEAbq5Lk-ijpl1tneo46vF7ABUPiD7KrMqRuBJuMn0P6YE5v1TMhQLoFsvXcvYO_eAXgOwyZU1rRIy5Kra2YwnHX3D7j5kFkPicSE8ZPdoPvL1K5C5Z84YBURkPGSXav8t9Dx7H10KYypsQPZN513V1_o4OeEjGcmGvfqP6jRSJKL4gH3FVhQafENPoVCblaBxA-HjBRWsg8QlSr0WxngSCAmWYIPH5t8-CGIRzPVHD824TRcvwItE4A7o4_MqaMehqyYO4q9IHuBGSGSWHALQSsfdkk1A26YI9XwYDEC69f1AFxGAm3c6p0Bz1O4Ra-sbuMKLYzWM2WW8CC9YY7WUqzSj2DLq-h5NsmnLG9hc2KN9uShZzgGsNPFFiDZORl_VRvF2-ElDjOI6MHrK6R2KDSDHZsA_THsFOeiKjsl2uKh1fJ5LtOiX8ryfENhDeNpx7KuK9qtzYVdKZAE7YD0ql7cOA==&drmtype=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="NBA季后赛",鲸鱼
+https://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265.m3u8?auth_key=1684602005-bbc4244ba5094113846d2012d5f0d8c3-0-4a9d64f5ce648d7f7dc823fba5c26add
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
 https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育 8M
