@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合
 http://39.134.136.206:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
@@ -140,49 +138,49 @@ rtmp://9wv7.mine.nu/sat/tv111
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视
 rtmp://9wv7.mine.nu/sat/tv051
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
-http://192.168.31.64:35455/youtube/xL0ch83RAK8
+http://192.168.100.209:35455/youtube/xL0ch83RAK8
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="港澳台",中視新聞
-http://192.168.31.64:35455/youtube/TCnaIE_SAtM
+http://192.168.100.209:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="港澳台",華視新聞
-http://192.168.31.64:35455/youtube/wM0g8EoUZ_E
+http://192.168.100.209:35455/youtube/wM0g8EoUZ_E
 #EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="港澳台",民視新聞
-http://192.168.31.64:35455/youtube/ylYJSBUgaMA
+http://192.168.100.209:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="港澳台",東森新聞
-http://192.168.31.64:35455/youtube/khuZW5GdBXo
+http://192.168.100.209:35455/youtube/khuZW5GdBXo
 #EXTINF:-1,tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞.png" group-title="港澳台",東森財經新聞
-http://192.168.31.64:35455/youtube/WHEPzbFA3hw
+http://192.168.100.209:35455/youtube/WHEPzbFA3hw
 #EXTINF:-1,tvg-id="東森財經股市" tvg-name="東森財經股市" tvg-logo="https://epg.112114.xyz/logo/東森財經股市.png" group-title="港澳台",東森財經股市
-http://192.168.31.64:35455/youtube/LbS-xQ67fos
+http://192.168.100.209:35455/youtube/LbS-xQ67fos
 #EXTINF:-1,tvg-id="全球財經台" tvg-name="全球財經台" tvg-logo="https://epg.112114.xyz/logo/全球財經台.png" group-title="港澳台",全球財經台
-http://192.168.31.64:35455/youtube/f_8XyT55pms
+http://192.168.100.209:35455/youtube/f_8XyT55pms
 #EXTINF:-1,tvg-id="運通財經台" tvg-name="運通財經台" tvg-logo="https://epg.112114.xyz/logo/運通財經台.png" group-title="港澳台",運通財經台
-http://192.168.31.64:35455/youtube/solSdRlVEHI
+http://192.168.100.209:35455/youtube/solSdRlVEHI
 #EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="港澳台",鏡新聞
-http://192.168.31.64:35455/youtube/5n0y6b0Q25o
+http://192.168.100.209:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.112114.xyz/logo/三立NEWS+.png" group-title="港澳台",三立NEWS+
-http://192.168.31.64:35455/youtube/oZdzzvxTfUY
+http://192.168.100.209:35455/youtube/oZdzzvxTfUY
 #EXTINF:-1,tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="港澳台",三立iNEWS
-http://192.168.31.64:35455/youtube/CKjSm5ZeehE
+http://192.168.100.209:35455/youtube/CKjSm5ZeehE
 #EXTINF:-1,tvg-id="三立LIVE" tvg-name="三立LIVE" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="港澳台",三立LIVE
-http://192.168.31.64:35455/youtube/ovmifyxFOho
+http://192.168.100.209:35455/youtube/ovmifyxFOho
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS NEWS LIVE
-http://192.168.31.64:35455/youtube/m_dhMSvUCIc
+http://192.168.100.209:35455/youtube/m_dhMSvUCIc
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港澳台",中天新聞
-http://192.168.31.64:35455/youtube/oIgbl7t0S_w
+http://192.168.100.209:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1,tvg-id="中天新聞2" tvg-name="中天新聞2" tvg-logo="https://epg.112114.xyz/logo/中天新聞2.png" group-title="港澳台",中天新聞2
-http://192.168.31.64:35455/youtube/WPfPjbOLNfE
+http://192.168.100.209:35455/youtube/WPfPjbOLNfE
 #EXTINF:-1,tvg-id="寰宇台灣新聞" tvg-name="寰宇台灣新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇台灣新聞.png" group-title="港澳台",寰宇台灣新聞
-http://192.168.31.64:35455/youtube/B7Zp3d6xXWw
+http://192.168.100.209:35455/youtube/B7Zp3d6xXWw
 #EXTINF:-1,tvg-id="寰宇全球新聞" tvg-name="寰宇全球新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇全球新聞.png" group-title="港澳台",寰宇全球新聞
-http://192.168.31.64:35455/youtube/DDvdmzvaNJs
+http://192.168.100.209:35455/youtube/DDvdmzvaNJs
 #EXTINF:-1,tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" group-title="港澳台",中天亞洲台
-http://192.168.31.64:35455/youtube/oPx1u9WQrWg
+http://192.168.100.209:35455/youtube/oPx1u9WQrWg
 #EXTINF:-1,tvg-id="東森娛樂台" tvg-name="東森娛樂台" tvg-logo="https://epg.112114.xyz/logo/東森娛樂台.png" group-title="港澳台",東森娛樂台
-http://192.168.31.64:35455/youtube/OQdX93g8Wos
+http://192.168.100.209:35455/youtube/OQdX93g8Wos
 #EXTINF:-1,tvg-id="國家地理野生頻道" tvg-name="國家地理野生頻道" tvg-logo="https://epg.112114.xyz/logo/國家地理野生頻道.png" group-title="港澳台",國家地理野生頻道
-http://192.168.31.64:35455/youtube/6zGV59Ldp3s
+http://192.168.100.209:35455/youtube/6zGV59Ldp3s
 #EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="港澳台",国家地理
-http://192.168.31.64:35455/youtube/9HhhFKxfqUk
+http://192.168.100.209:35455/youtube/9HhhFKxfqUk
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
 http://epg.112114.xyz/douyu/2901080
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
@@ -192,33 +190,33 @@ http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/5c/32f9f03466c469cbac8345444dd6fd_180_135.jpg?1582015720&465534" group-title="影视",周星驰
-http://192.168.31.64:35455/huya/11342412
+http://192.168.100.209:35455/huya/11342412
 #EXTINF:-1  group-title="影视",李连杰
-http://192.168.31.64:35455/huya/11342390
+http://192.168.100.209:35455/huya/11342390
 #EXTINF:-1  group-title="影视",周润发
-http://192.168.31.64:35455/huya/11342387
+http://192.168.100.209:35455/huya/11342387
 #EXTINF:-1  group-title="影视",刘德华
-http://192.168.31.64:35455/huya/11342424
+http://192.168.100.209:35455/huya/11342424
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
-http://192.168.31.64:35455/douyu/3379942
+http://192.168.100.209:35455/douyu/3379942
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
-http://192.168.31.64:35455/huya/11342386
+http://192.168.100.209:35455/huya/11342386
 #EXTINF:-1  group-title="影视",邵氏电影
-http://192.168.31.64:35455/douyu/4246519
+http://192.168.100.209:35455/douyu/4246519
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=838445859,209975853&fm=253&fmt=auto&app=138&f=PNG?w=220&h=203" group-title="影视",洪金宝
-http://192.168.31.64:35455/huya/11279251
+http://192.168.100.209:35455/huya/11279251
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=2465710876,2550461123&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=710" group-title="影视",甄子丹
-http://192.168.31.64:35455/huya/11352935
+http://192.168.100.209:35455/huya/11352935
 #EXTINF:-1  group-title="影视",豆瓣高分
-http://192.168.31.64:35455/douyu/8770422
+http://192.168.100.209:35455/douyu/8770422
 #EXTINF:-1  group-title="影视",王晶作品
-http://192.168.31.64:35455/huya/11602058
+http://192.168.100.209:35455/huya/11602058
 #EXTINF:-1  group-title="影视",许氏三杰
-http://192.168.31.64:35455/huya/11602033
+http://192.168.100.209:35455/huya/11602033
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/63/61893d4ab1c814538fece254bdb9bb_180_135.jpg?1657822084&465534" group-title="影视",林正英
-http://192.168.31.64:35455/huya/11342421
+http://192.168.100.209:35455/huya/11342421
 #EXTINF:-1 tvg-logo="" group-title="影视",荒野求生
-http://192.168.31.64:35455/huya/21059555
+http://192.168.100.209:35455/huya/21059555
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
 http://113.117.74.20:8081/hls/1/index.m3u8
 #EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="其他",深圳体育
@@ -244,7 +242,7 @@ rtmp://9wv7.mine.nu/sat/tv741
 #EXTINF:-1, group-title="体育",WWE
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, group-title="体育",WWE1
-http://192.168.31.64:35455/huya/880223
+http://192.168.100.209:35455/huya/880223
 #EXTINF:-1, group-title="体育",TNA搏击
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-1
