@@ -190,33 +190,33 @@ http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/5c/32f9f03466c469cbac8345444dd6fd_180_135.jpg?1582015720&465534" group-title="影视",周星驰
-http://192.168.100.209:35455/huya/11342412
+http://192.168.100.209:6789/huya/11342412
 #EXTINF:-1  group-title="影视",李连杰
-http://192.168.100.209:35455/huya/11342390
+http://192.168.100.209:6789/huya/11342390
 #EXTINF:-1  group-title="影视",周润发
-http://192.168.100.209:35455/huya/11342387
+http://192.168.100.209:6789/huya/11342387
 #EXTINF:-1  group-title="影视",刘德华
-http://192.168.100.209:35455/huya/11342424
+http://192.168.100.209:6789/huya/11342424
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
-http://192.168.100.209:35455/douyu/3379942
+http://192.168.100.209:6789/douyu/3379942
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
-http://192.168.100.209:35455/huya/11342386
+http://192.168.100.209:6789/huya/11342386
 #EXTINF:-1  group-title="影视",邵氏电影
-http://192.168.100.209:35455/douyu/4246519
+http://192.168.100.209:6789/douyu/4246519
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=838445859,209975853&fm=253&fmt=auto&app=138&f=PNG?w=220&h=203" group-title="影视",洪金宝
-http://192.168.100.209:35455/huya/11279251
+http://192.168.100.209:6789/huya/11279251
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=2465710876,2550461123&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=710" group-title="影视",甄子丹
-http://192.168.100.209:35455/huya/11352935
+http://192.168.100.209:6789/huya/11352935
 #EXTINF:-1  group-title="影视",豆瓣高分
-http://192.168.100.209:35455/douyu/8770422
+http://192.168.100.209:6789/douyu/8770422
 #EXTINF:-1  group-title="影视",王晶作品
-http://192.168.100.209:35455/huya/11602058
+http://192.168.100.209:6789/huya/11602058
 #EXTINF:-1  group-title="影视",许氏三杰
-http://192.168.100.209:35455/huya/11602033
+http://192.168.100.209:6789/huya/11602033
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/63/61893d4ab1c814538fece254bdb9bb_180_135.jpg?1657822084&465534" group-title="影视",林正英
-http://192.168.100.209:35455/huya/11342421
+http://192.168.100.209:6789/huya/11342421
 #EXTINF:-1 tvg-logo="" group-title="影视",荒野求生
-http://192.168.100.209:35455/huya/21059555
+http://192.168.100.209:6789/huya/21059555
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
 http://113.117.74.20:8081/hls/1/index.m3u8
 #EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="其他",深圳体育
