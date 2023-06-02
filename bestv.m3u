@@ -9,7 +9,7 @@ http://39.134.136.206:6610/200000001898/460000089800010138/1.m3u8?IASHttpSession
 http://39.134.136.206:6610/200000001898/460000089800010017/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5体育
 http://39.134.136.206:6610/200000001898/460000089800010139/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5体育赛事
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5体育赛事
 http://39.134.136.206:6610/200000001898/460000089800010044/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6电影
 http://39.134.136.206:6610/200000001898/460000089800010140/1.m3u8?IASHttpSessionId=OTT
@@ -131,7 +131,7 @@ rtmp://9wv7.mine.nu/sat/tv071
 rtmp://9wv7.mine.nu/sat/tv111
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视
 rtmp://9wv7.mine.nu/sat/tv051
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="澳台",中天新闻台
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台",中天新闻台
 http://awei.beimua.com/iptv.php?id=43
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻台
 http://awei.beimua.com/iptv.php?id=44
@@ -139,15 +139,15 @@ http://awei.beimua.com/iptv.php?id=44
 http://awei.beimua.com/iptv.php?id=46
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻台
 http://awei.beimua.com/iptv.php?id=47
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="澳台",三立新闻台
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港澳台",三立新闻台
 http://awei.beimua.com/iptv.php?id=48
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻台
 http://awei.beimua.com/iptv.php?id=50
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新闻台
 http://awei.beimua.com/iptv.php?id=51
-#EXTINF:-1,tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="https://epg.112114.xyz/logo/镜电视新闻台.png" group-title="澳台",镜电视新闻台
+#EXTINF:-1,tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="https://epg.112114.xyz/logo/镜电视新闻台.png" group-title="港澳台",镜电视新闻台
 http://awei.beimua.com/iptv.php?id=52
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="其他",寰宇新闻台
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="港澳台",寰宇新闻台
 http://awei.beimua.com/iptv.php?id=53
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
 http://awei.beimua.com/iptv.php?id=54
@@ -159,7 +159,7 @@ http://192.168.100.209:34555/douyu/3243427
 http://192.168.100.209:34555/douyu/6140589
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
 http://192.168.100.209:34555/douyu/4332
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星驰
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="影视", 周星驰
 https://192.168.100.209:34555/huya/11342412
 #EXTINF:-1  group-title="影视",李连杰
 https://192.168.100.209:34555/huya/11342390
@@ -196,15 +196,15 @@ http://39.134.61.218/PLTV/88888888/224/3221226916/index.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="体育",新视觉
-https://cntv.sbs/live05?id=xsj
+https://cntv.sbs/live?auth=230601&id=xsj
 #EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="体育",爱尔达体育1
 rtmp://9sv2.mine.nu/sat/md031
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="体育",爱尔达体育2
 rtmp://9sv2.mine.nu/sat/md021
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
-https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+https://cntv.sbs/live?auth=230601&id=jbty
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育 8M
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+https://cntv.sbs/live?auth=230601&id=wxty
 #EXTINF:-1,tvg-id="MoMo综合" tvg-name="MoMo综合" tvg-logo="https://epg.112114.xyz/logo/MOMO综合.png" group-title="其他",MoMo综合
 rtmp://9wv7.mine.nu/sat/tv761
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN体育1
