@@ -112,13 +112,19 @@ http://113.117.74.20:8081/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://113.117.74.20:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://113.117.74.20:8081/hls/67/index.m3u8
-#EXTINF:-1,tvg-id="TVB明珠" tvg-name="TVB明珠" tvg-logo="https://epg.112114.xyz/logo/TVB明珠.png" group-title="港澳台",TVB明珠
-http://nas.jdshipin.com:8801/gudoumz.php
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",VIU TV
-http://r.jdshipin.com/vSJvl
-#EXTINF:-1,tvg-id="财经体育新闻" tvg-name="财经体育新闻" tvg-logo="https://epg.112114.xyz/logo/财经体育新闻.png" group-title="港澳台",财经体育新闻
-http://120.84.96.82:808/hls/86/index.m3u8
+http://bziyunshao.synology.me:8889/bysid/1
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+http://bziyunshao.synology.me:8890/bysid/2
+#EXTINF:-1,tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="港澳台",無綫新聞台
+http://bziyunshao.synology.me:8890/bysid/83
+#EXTINF:-1,tvg-id="無綫財經 體育 資訊台" tvg-name="無綫財經 體育 資訊台" tvg-logo="https://epg.112114.xyz/logo/無綫財經體育資訊台.png" group-title="港澳台",無綫財經 體育 資訊台
+http://bziyunshao.synology.me:8890/bysid/85
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2台
+http://bziyunshao.synology.me:8890/bysid/82
+#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="港澳台",ViuTVsix
+http://bziyunshao.synology.me:8889/bysid/96
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",ViuTV
+http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐
 rtmp://9wv7.mine.nu/sat/tv421
 #EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="港澳台",东森超视
