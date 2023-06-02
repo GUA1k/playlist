@@ -152,13 +152,13 @@ http://awei.beimua.com/iptv.php?id=53
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
 http://awei.beimua.com/iptv.php?id=54
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
-http://192.168.100.209:34555/douyu/2901080
+https://192.168.100.209:34555/douyu/2901080
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
-http://192.168.100.209:34555/douyu/3243427
+https://192.168.100.209:34555/douyu/3243427
 #EXTINF:-1 tvg-logo="https://imgo.hackhome.com/img2021/6/30/18/15598076.jpg" group-title="影视",漫威电影
-http://192.168.100.209:34555/douyu/6140589
+https://192.168.100.209:34555/douyu/6140589
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
-http://192.168.100.209:34555/douyu/4332
+https://192.168.100.209:34555/douyu/4332
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="影视", 周星驰
 https://192.168.100.209:34555/huya/11342412
 #EXTINF:-1  group-title="影视",李连杰
@@ -168,17 +168,17 @@ https://192.168.100.209:34555/huya/11342387
 #EXTINF:-1  group-title="影视",刘德华
 https://192.168.100.209:34555/huya/11342424
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
-http://192.168.100.209:34555/douyu/3379942
+https://192.168.100.209:34555/douyu/3379942
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
 https://192.168.100.209:34555/huya/11342386
 #EXTINF:-1  group-title="影视",邵氏电影
-http://192.168.100.209:34555/douyu/4246519
+https://192.168.100.209:34555/douyu/4246519
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=838445859,209975853&fm=253&fmt=auto&app=138&f=PNG?w=220&h=203" group-title="影视",洪金宝
 https://192.168.100.209:34555/huya/11279251
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=2465710876,2550461123&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=710" group-title="影视",甄子丹
 https://192.168.100.209:34555/huya/11352935
 #EXTINF:-1  group-title="影视",豆瓣高分
-http://192.168.100.209:34555/douyu/8770422
+https://192.168.100.209:34555/douyu/8770422
 #EXTINF:-1  group-title="影视",王晶作品
 https://192.168.100.209:34555/huya/11602058
 #EXTINF:-1  group-title="影视",许氏三杰
