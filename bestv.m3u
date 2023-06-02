@@ -150,45 +150,47 @@ http://awei.beimua.com/iptv.php?id=53
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
 http://awei.beimua.com/iptv.php?id=54
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
-http://epg.112114.xyz/douyu/2901080
+http://192.168.100.209:34555/douyu/2901080
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
-http://epg.112114.xyz/douyu/3243427
+http://192.168.100.209:34555/douyu/3243427
 #EXTINF:-1 tvg-logo="https://imgo.hackhome.com/img2021/6/30/18/15598076.jpg" group-title="影视",漫威电影
-http://epg.112114.xyz/douyu/6140589
+http://192.168.100.209:34555/douyu/6140589
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
-http://epg.112114.xyz/douyu/4332
+http://192.168.100.209:34555/douyu/4332
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星驰
-https://www.goodiptv.club/huya/11342412
+https://192.168.100.209:34555/huya/11342412
 #EXTINF:-1  group-title="影视",李连杰
-https://www.goodiptv.club/huya/11342390
+https://192.168.100.209:34555/huya/11342390
 #EXTINF:-1  group-title="影视",周润发
-https://www.goodiptv.club/huya/11342387
+https://192.168.100.209:34555/huya/11342387
 #EXTINF:-1  group-title="影视",刘德华
-https://www.goodiptv.club/huya/11342424
+https://192.168.100.209:34555/huya/11342424
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
 http://192.168.100.209:34555/douyu/3379942
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
-https://www.goodiptv.club/huya/11342386
+https://192.168.100.209:34555/huya/11342386
 #EXTINF:-1  group-title="影视",邵氏电影
 http://192.168.100.209:34555/douyu/4246519
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=838445859,209975853&fm=253&fmt=auto&app=138&f=PNG?w=220&h=203" group-title="影视",洪金宝
-https://www.goodiptv.club/huya/11279251
+https://192.168.100.209:34555/huya/11279251
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=2465710876,2550461123&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=710" group-title="影视",甄子丹
-https://www.goodiptv.club/huya/11352935
+https://192.168.100.209:34555/huya/11352935
 #EXTINF:-1  group-title="影视",豆瓣高分
 http://192.168.100.209:34555/douyu/8770422
 #EXTINF:-1  group-title="影视",王晶作品
-https://www.goodiptv.club/huya/11602058
+https://192.168.100.209:34555/huya/11602058
 #EXTINF:-1  group-title="影视",许氏三杰
-https://www.goodiptv.club/huya/11602033
+https://192.168.100.209:34555/huya/11602033
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885" group-title="影视", 林正英
-https://www.goodiptv.club/huya/11342421
+https://192.168.100.209:34555/huya/11342421
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/58/2d46fa26f9040747ff5e96b3bd9779_180_135.jpg?1684388448" group-title="影视", 德云社
-https://www.goodiptv.club/huya/27534712
+https://192.168.100.209:34555/huya/27534712
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
 http://113.117.74.20:8081/hls/1/index.m3u8
-#EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="其他",深圳体育
+#EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="体育",深圳体育
 http://113.117.74.20:8081/hls/70/index.m3u8
+#EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="体育",辽宁体育
+http://39.134.61.218/PLTV/88888888/224/3221226916/index.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="体育",新视觉
@@ -203,9 +205,9 @@ https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="MoMo综合" tvg-name="MoMo综合" tvg-logo="https://epg.112114.xyz/logo/MOMO综合.png" group-title="其他",MoMo综合
 rtmp://9wv7.mine.nu/sat/tv761
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="港澳台",ELEVEN体育1
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN体育1
 rtmp://9wv7.mine.nu/sat/tv731
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="港澳台",ELEVEN体育2
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="体育",ELEVEN体育2
 rtmp://9wv7.mine.nu/sat/tv741
 #EXTINF:-1, group-title="体育",WWE
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
@@ -213,6 +215,8 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 http://live.globalflix.net/nazmul/nazmul/107.ts
 #EXTINF:-1, group-title="体育",TNA搏击
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,tvg-id="百事通" tvg-name="百事通" tvg-logo="https://epg.112114.xyz/logo/百事通.png" group-title="其他",百事通
+http://39.134.61.218/PLTV/88888888/224/3221226973/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2
