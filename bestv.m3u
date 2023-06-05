@@ -245,9 +245,9 @@ rtmp://9wv7.mine.nu/sat/tv731
 rtmp://9wv7.mine.nu/sat/tv741
 #EXTINF:-1, group-title="体育",WWE
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1, group-title="体育",WWE1
+#EXTINF:-1, group-title="体育",WWE
 http://live.globalflix.net/nazmul/nazmul/107.ts
-#EXTINF:-1, group-title="体育",TNA搏击
+#EXTINF:-1, group-title="体育",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,tvg-id="百事通" tvg-name="百事通" tvg-logo="https://epg.112114.xyz/logo/百事通.png" group-title="其他",百事通
 http://39.134.61.218/PLTV/88888888/224/3221226973/index.m3u8
