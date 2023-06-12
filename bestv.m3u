@@ -237,8 +237,8 @@ http://192.168.100.209:35455/huya/11602033
 http://192.168.100.209:35455/huya/11601972
 #EXTINF:-1  group-title="影视",郭德纲
 http://192.168.100.209:35455/huya/15042327
-#EXTINF:-1,tvg-id="NBA" tvg-name=NBA" tvg-logo="http://obsfullhd.tv:25461/images/c335a4a554815dc560235cf339801260.png" group-title="体育",NBA
-http://obsfullhd.tv:25461/Localgermany/D7q9eDBP8ADnv2/36984
+#EXTINF:-1,tvg-id="NBA" tvg-name=NBA" tvg-logo="http://obsfullhd.tv:25461/images/c335a4a554815dc560235cf339801260.png" group-title="体育",NBA tv
+http://62.182.83.91:80/CANAKCI720/d7p6WZ5589/82005
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
 http://113.117.74.12:8081/hls/1/index.m3u8
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
