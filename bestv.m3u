@@ -140,13 +140,13 @@ http://yuwentao114.f3322.net:4022/udp/239.252.220.179:5140
 #EXTINF:-1,tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png" group-title="卫视",河南戏曲
 http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 #EXTINF:-1,tvg-id="阜阳新闻综合" tvg-name="阜阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻综合.png" group-title="卫视",阜阳新闻综合
-http://192.168.100.209:5678/ad.php?id=fyxwzh
+http://192.168.100.209:5678/fytv.php?id=1
 #EXTINF:-1,tvg-id="阜阳教育频道" tvg-name="阜阳教育频道" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="卫视",阜阳教育频道
-http://192.168.100.209:5678/ad.php?id=fyjy
+http://192.168.100.209:5678/fytv.php?id=2
 #EXTINF:-1,tvg-id="阜阳公共频道" tvg-name="阜阳公共频道" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="卫视",阜阳公共频道
-http://192.168.100.209:5678/ad.php?id=fygg
+http://192.168.100.209:5678/fytv.php?id=3
 #EXTINF:-1,tvg-id="阜阳都市文艺" tvg-name="阜阳都市文艺" tvg-logo="https://epg.112114.xyz/logo/阜阳都市文艺.png" group-title="卫视",阜阳都市文艺
-http://192.168.100.209:5678/ad.php?id=fydswy
+http://192.168.100.209:5678/fytv.php?id=4
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://113.117.74.12:8081/hls/37/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
