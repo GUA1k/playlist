@@ -167,6 +167,12 @@ http://bziyunshao.synology.me:8890/bysid/82
 http://bziyunshao.synology.me:8889/bysid/96
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",ViuTV
 http://bziyunshao.synology.me:8889/bysid/99
+#EXTINF:-1,tvg-id="香港开电视" tvg-name="香港开电视" tvg-logo="https://epg.112114.xyz/logo/香港开电视.png" group-title="香港",香港开电视
+http://51.89.21.73:27347/livehttpplay?channel_id=20152 
+#EXTINF:-1,tvg-id="港台电视31超清" tvg-name="港台电视31超清" tvg-logo="https://epg.112114.xyz/logo/港台电视31.png" group-title="其他",港台电视31超清
+http://107.167.12.58:27347/livehttpplay?channel_id=30066 
+#EXTINF:-1,tvg-id="港台电视32超清" tvg-name="港台电视32超清" tvg-logo="https://epg.112114.xyz/logo/港台电视32.png" group-title="其他",港台电视32超清
+http://107.167.12.58:27347/livehttpplay?channel_id=30067 
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐
 rtmp://9sv2.mine.nu/sat/tv421
 #EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="港澳台",东森超视
@@ -177,26 +183,38 @@ rtmp://9sv2.mine.nu/sat/tv071
 rtmp://9sv2.mine.nu/sat/tv111
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视
 rtmp://9sv2.mine.nu/sat/tv051
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台",中天新闻台
-http://awei.beimua.com/iptv.php?id=43
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻台
-http://awei.beimua.com/iptv.php?id=44
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视新闻台
-http://awei.beimua.com/iptv.php?id=46
-#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻台
-http://awei.beimua.com/iptv.php?id=47
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港澳台",三立新闻台
-http://awei.beimua.com/iptv.php?id=48
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻台
-http://awei.beimua.com/iptv.php?id=50
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新闻台
-http://awei.beimua.com/iptv.php?id=51
-#EXTINF:-1,tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="https://epg.112114.xyz/logo/镜电视新闻台.png" group-title="港澳台",镜电视新闻台
-http://awei.beimua.com/iptv.php?id=52
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="港澳台",寰宇新闻台
-http://awei.beimua.com/iptv.php?id=53
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
-http://awei.beimua.com/iptv.php?id=54
+#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港澳台",寰宇新聞
+http://192.168.100.209:35455/youtube/B7Zp3d6xXWw
+#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="港澳台",鏡新聞
+http://192.168.100.209:35455/youtube/5n0y6b0Q25o
+#EXTINF:-1,tvg-id="東森Live" tvg-name="東森Live" tvg-logo="https://epg.112114.xyz/logo/東森LIVE.png" group-title="港澳台",東森Live
+http://192.168.100.209:35455/youtube/R2iMq5LKXco
+#EXTINF:-1,tvg-id="東森新闻" tvg-name="東森新闻" tvg-logo="https://epg.112114.xyz/logo/東森新闻.png" group-title="港澳台",東森新闻
+http://192.168.100.209:35455/youtube/khuZW5GdBXo
+#EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="港澳台",東森財經
+http://192.168.100.209:35455/youtube/WHEPzbFA3hw
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港澳台",中天新聞
+http://192.168.100.209:35455/youtube/oIgbl7t0S_w
+#EXTINF:-1,tvg-id="三立live" tvg-name="三立live" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="港澳台",三立live
+http://192.168.100.209:35455/youtube/FoBfXvlOR6I
+#EXTINF:-1,tvg-id="三立inews" tvg-name="三立inews" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="港澳台",三立inews
+http://192.168.100.209:35455/youtube/CKjSm5ZeehE
+#EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.112114.xyz/logo/三立NEWS+.png" group-title="港澳台",三立NEWS+
+http://192.168.100.209:35455/youtube/oZdzzvxTfUY
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞
+http://192.168.100.209:35455/youtube/2mCSYvcfhtc
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS NEWS LIVE
+http://192.168.100.209:35455/youtube/m_dhMSvUCIc
+#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="港澳台",民視新聞
+http://192.168.100.209:35455/youtube/ylYJSBUgaMA
+#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="港澳台",華視新聞
+http://192.168.100.209:35455/youtube/wM0g8EoUZ_E
+#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="港澳台",中視新聞
+http://192.168.100.209:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
+http://192.168.100.209:35455/youtube/xL0ch83RAK8
+#EXTINF:-1,tvg-id="三立財經" tvg-name="三立財經" tvg-logo="https://epg.112114.xyz/logo/三立財經.png" group-title="港澳台",三立財經
+http://192.168.100.209:35455/youtube/CKjSm5ZeehE
 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
 http://192.168.100.209:35455/douyu/2901080
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
