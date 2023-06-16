@@ -167,11 +167,11 @@ http://bziyunshao.synology.me:8890/bysid/82
 http://bziyunshao.synology.me:8889/bysid/96
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",ViuTV
 http://bziyunshao.synology.me:8889/bysid/99
-#EXTINF:-1,tvg-id="香港开电视" tvg-name="香港开电视" tvg-logo="https://epg.112114.xyz/logo/香港开电视.png" group-title="香港",香港开电视
+#EXTINF:-1,tvg-id="香港开电视" tvg-name="香港开电视" tvg-logo="https://epg.112114.xyz/logo/香港开电视.png" group-title="港澳台",香港开电视
 http://51.89.21.73:27347/livehttpplay?channel_id=20152 
-#EXTINF:-1,tvg-id="港台电视31超清" tvg-name="港台电视31超清" tvg-logo="https://epg.112114.xyz/logo/港台电视31.png" group-title="其他",港台电视31超清
+#EXTINF:-1,tvg-id="港台电视31超清" tvg-name="港台电视31超清" tvg-logo="https://epg.112114.xyz/logo/港台电视31.png" group-title="港澳台",港台电视31超清
 http://107.167.12.58:27347/livehttpplay?channel_id=30066 
-#EXTINF:-1,tvg-id="港台电视32超清" tvg-name="港台电视32超清" tvg-logo="https://epg.112114.xyz/logo/港台电视32.png" group-title="其他",港台电视32超清
+#EXTINF:-1,tvg-id="港台电视32超清" tvg-name="港台电视32超清" tvg-logo="https://epg.112114.xyz/logo/港台电视32.png" group-title="港澳台",港台电视32超清
 http://107.167.12.58:27347/livehttpplay?channel_id=30067 
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐
 rtmp://9sv2.mine.nu/sat/tv421
