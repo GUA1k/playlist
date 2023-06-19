@@ -35,8 +35,10 @@ http://39.134.136.206:6610/200000001898/460000089800010094/1.m3u8?IASHttpSession
 http://39.134.136.206:6610/200000001898/460000089800010142/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17农业农村
 http://39.134.136.206:6610/200000001898/460000089800010049/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4k
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
+http://192.168.100.209:5678/cqyx.php?id=CCTV4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
+http://192.168.100.209:5678/cqyx.php?id=CCTV16_4K
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视",CCTV第一剧场
 http://111.20.40.171/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场
@@ -63,6 +65,8 @@ http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8
 http://119.167.147.157/tlivecloud-ipv6.ysp.cctv.cn/001/2012513502.m3u8
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",CCTV高尔夫网球
 http://119.167.147.157/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K
+http://192.168.100.209:5678/cqyx.php?id=hxjc_4K
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
@@ -139,6 +143,8 @@ http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 http://yuwentao114.f3322.net:4022/udp/239.252.220.179:5140
 #EXTINF:-1,tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png" group-title="卫视",河南戏曲
 http://123.6.9.146/live/jz-henanliyuan/live.m3u8
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他",中国天气
+http://192.168.100.209:5678/cqyx.php?id=tianqiSD
 #EXTINF:-1,tvg-id="阜阳新闻综合" tvg-name="阜阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻综合.png" group-title="卫视",阜阳新闻综合
 http://192.168.100.209:5678/fytv.php?id=1
 #EXTINF:-1,tvg-id="阜阳教育频道" tvg-name="阜阳教育频道" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="卫视",阜阳教育频道
