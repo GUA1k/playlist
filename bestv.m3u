@@ -259,6 +259,8 @@ http://192.168.100.209:35455/douyu/6140589
 http://192.168.100.209:35455/douyu/4332
 #EXTINF:-1  group-title="影视",豆瓣高分
 http://192.168.100.209:35455/douyu/8770422
+#EXTINF:-1  group-title="影视",1905电影
+http://192.168.100.209:5678/1905.php?id=1905dy
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="影视", 周星驰
 http://192.168.100.209:35455/huya/11342412
 #EXTINF:-1  group-title="影视",王晶作品
