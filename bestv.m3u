@@ -263,6 +263,16 @@ http://192.168.100.209:35455/douyu/8770422
 http://192.168.100.209:5678/1905.php?id=1905dy
 #EXTINF:-1  group-title="影视",NOW爆谷台
 http://ali.hlspull.yximgs.com/live/fa7cdfa58985jjygh858855024.flv
+#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="影视",天映经典
+http://120.84.96.149:808/hls/85/index.m3u8
+#EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影台.png" group-title="影视",好莱坞电影
+http://120.84.96.149:808/hls/24/index.m3u8
+#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="影视",东森电影
+http://120.84.96.149:808/hls/32/index.m3u8
+#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="影视",东森洋片
+http://120.84.96.149:808/hls/33/index.m3u8
+#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="影视",龙祥时代
+http://120.84.96.149:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="影视", 周星驰
 http://192.168.100.209:35455/huya/11342412
 #EXTINF:-1  group-title="影视",王晶作品
