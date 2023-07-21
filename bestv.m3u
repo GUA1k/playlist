@@ -74,19 +74,19 @@ http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://124.112.112.30:8888/rtp/238.1.79.27:4328
+http://192.168.100.209:5678/ah.php?id=ahws
 #EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.112114.xyz/logo/安徽经济生活.png" group-title="卫视",安徽经济生活
-http://124.112.112.33:8888/rtp/238.1.78.166:7200
+http://192.168.100.209:5678/ah.php?id=ahjjsh
 #EXTINF:-1,tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="卫视",安徽影视频道
-http://124.112.112.30:8888/rtp/238.1.79.42:4448
+http://192.168.100.209:5678/ah.php?id=ahys
 #EXTINF:-1,tvg-id="安徽农业科教" tvg-name="安徽农业科教" tvg-logo="https://epg.112114.xyz/logo/安徽农业科教.png" group-title="卫视",安徽农业科教
-http://124.112.112.30:8888/rtp/238.1.79.40:4432
+http://192.168.100.209:5678/ah.php?id=ahnykj
 #EXTINF:-1,tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://epg.112114.xyz/logo/安徽公共.png" group-title="卫视",安徽公共频道
-http://124.112.112.30:8888/rtp/238.1.79.43:4456
+http://192.168.100.209:5678/ah.php?id=ahgg
 #EXTINF:-1,tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://epg.112114.xyz/logo/安徽综艺体育.png" group-title="卫视",安徽综艺体育
-http://124.112.112.30:8888/rtp/238.1.79.41:4440
-#EXTINF:-1,tvg-id="安徽国际" tvg-name="安徽国际" tvg-logo="https://epg.112114.xyz/logo/安徽国际.png" group-title="卫视",安徽国际频道
-http://124.112.112.30:8888/rtp/238.1.78.61:6360
+http://192.168.100.209:5678/ah.php?id=ahzyty
+#EXTINF:-1,tvg-id="安徽国际频道" tvg-name="安徽国际频道" tvg-logo="https://epg.112114.xyz/logo/安徽国际.png" group-title="卫视",安徽国际频道
+http://192.168.100.209:5678/ah.php?id=ahgg
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://222.175.159.226:808/hls/202341/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
@@ -149,18 +149,22 @@ http://222.175.159.226:808/hls/202368/index.m3u8
 http://222.175.159.226:808/hls/202371/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
 http://222.175.159.226:808/hls/202358/index.m3u8
-#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="卫视",CETV1
-http://cfss.cc/ds/bst.php?id=Cf-75
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="卫视",CETV4
-http://cfss.cc/ds/bst.php?id=Cf-76
+#EXTINF:-1,tvg-id="CETV-1HD" tvg-name="CETV-1HD" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="卫视",CETV-1HD
+http://txycetvbl.centv.cn/cetv1/ypd.m3u8
+#EXTINF:-1,tvg-id="CETV-2HD" tvg-name="CETV-2HD" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="卫视",CETV-2HD
+http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
+#EXTINF:-1,tvg-id="CETV-3HD" tvg-name="CETV-3HD" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="卫视",CETV-3HD
+http://txycsbl.centv.cn/zb/0822cetv3.m3u8
+#EXTINF:-1,tvg-id="CETV-4HD" tvg-name="CETV-4HD" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="卫视",CETV-4HD
+http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1,tvg-id="阜阳新闻综合" tvg-name="阜阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻综合.png" group-title="卫视",阜阳新闻综合
-http://124.112.112.30:8888/rtp/238.1.78.124:6864
+http://192.168.100.209:5678/fytv.php?id=1
 #EXTINF:-1,tvg-id="阜阳教育频道" tvg-name="阜阳教育频道" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="卫视",阜阳教育频道
-http://124.112.112.30:8888/rtp/238.1.78.126:6880
+http://192.168.100.209:5678/fytv.php?id=2
 #EXTINF:-1,tvg-id="阜阳公共频道" tvg-name="阜阳公共频道" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="卫视",阜阳公共频道
-http://124.112.112.30:8888/rtp/238.1.78.125:6872
+http://192.168.100.209:5678/fytv.php?id=3
 #EXTINF:-1,tvg-id="阜阳都市文艺" tvg-name="阜阳都市文艺" tvg-logo="https://epg.112114.xyz/logo/阜阳都市文艺.png" group-title="卫视",阜阳都市文艺
-http://124.112.112.30:8888/rtp/238.1.78.127:6888
+http://192.168.100.209:5678/fytv.php?id=4
 #EXTINF:-1,tvg-id="清华大学电视台" tvg-name="清华大学电视台" tvg-logo="https://epg.112114.xyz/logo/清华大学电视台.png" group-title="卫视",清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="卫视",梨园频道
