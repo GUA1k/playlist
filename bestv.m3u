@@ -209,9 +209,9 @@ http://107.167.12.58:27347/livehttpplay?channel_id=20131 ViuTV6 HD+
 http://107.167.12.58:27347/livehttpplay?channel_id=20132
 #EXTINF:-1,tvg-id="香港开电视" tvg-name="香港开电视" tvg-logo="https://epg.112114.xyz/logo/香港开电视.png" group-title="港澳台",香港开电视
 http://51.89.21.73:27347/livehttpplay?channel_id=20152 
-#EXTINF:-1,tvg-id="港台电视31超清" tvg-name="港台电视31超清" tvg-logo="https://epg.112114.xyz/logo/港台电视31.png" group-title="港澳台",港台电视31超清
+#EXTINF:-1,tvg-id="RHK 31" tvg-name="RHK 31" tvg-logo="https://epg.112114.xyz/logo/RHK31.png" group-title="港澳台",RHK 31
 http://107.167.12.58:27347/livehttpplay?channel_id=30066 
-#EXTINF:-1,tvg-id="港台电视32超清" tvg-name="港台电视32超清" tvg-logo="https://epg.112114.xyz/logo/港台电视32.png" group-title="港澳台",港台电视32超清
+#EXTINF:-1,tvg-id="RHK 32" tvg-name="RHK 32" tvg-logo="https://epg.112114.xyz/logo/RHK32.png" group-title="港澳台",RHK 32
 http://107.167.12.58:27347/livehttpplay?channel_id=30067 
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐
 rtmp://9sv2.mine.nu/sat/tv421
@@ -271,8 +271,6 @@ http://192.168.100.209:5678/1905.php?id=1905dy
 http://120.84.96.149:808/hls/85/index.m3u8
 #EXTINF:-1,tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影台.png" group-title="影视",好莱坞电影
 http://120.84.96.149:808/hls/24/index.m3u8
-#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="影视",东森电影
-http://171.110.62.27:8181/tsfile/live/1075_1.m3u8
 #EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="影视",东森洋片
 http://120.84.96.149:808/hls/33/index.m3u8
 #EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="影视",龙祥时代
@@ -318,13 +316,13 @@ https://cntv.sbs/live?auth=2307280808&id=mlzq
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="体育",游戏风云
 https://cntv.sbs/live?auth=2307280808&id=yxfy
 #EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="体育",爱尔达体育1
-rtmp://9sv2.mine.nu/sat/md021
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltasport_twn
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="体育",爱尔达体育2
-rtmp://9sv2.mine.nu/sat/md031
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltasport2_twn
 #EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="体育",爱尔达体育3
-rtmp://9sv2.mine.nu/sat/md011
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltasport3_twn
 #EXTINF:-1, group-title="体育",WWE
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=wwe_twn
 #EXTINF:-1, group-title="体育",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
