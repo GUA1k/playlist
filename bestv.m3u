@@ -193,18 +193,12 @@ http://192.168.100.209:35455/youtube/B7Zp3d6xXWw
 http://192.168.100.209:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1,tvg-id="東森Live" tvg-name="東森Live" tvg-logo="https://epg.112114.xyz/logo/東森LIVE.png" group-title="港澳台",東森Live
 http://192.168.100.209:35455/youtube/R2iMq5LKXco
-#EXTINF:-1,tvg-id="東森新闻" tvg-name="東森新闻" tvg-logo="https://epg.112114.xyz/logo/東森新闻.png" group-title="港澳台",東森新闻
-http://192.168.100.209:35455/youtube/khuZW5GdBXo
 #EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="港澳台",東森財經
 http://192.168.100.209:35455/youtube/WHEPzbFA3hw
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港澳台",中天新聞
 http://192.168.100.209:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1,tvg-id="三立live" tvg-name="三立live" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="港澳台",三立live
 http://192.168.100.209:35455/youtube/FoBfXvlOR6I
-#EXTINF:-1,tvg-id="三立inews" tvg-name="三立inews" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="港澳台",三立inews
-http://192.168.100.209:35455/youtube/CKjSm5ZeehE
-#EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.112114.xyz/logo/三立NEWS+.png" group-title="港澳台",三立NEWS+
-http://192.168.100.209:35455/youtube/oZdzzvxTfUY
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞
 http://192.168.100.209:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS NEWS LIVE
@@ -217,8 +211,6 @@ http://192.168.100.209:35455/youtube/wM0g8EoUZ_E
 http://192.168.100.209:35455/youtube/TCnaIE_SAtM
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
 http://192.168.100.209:35455/youtube/xL0ch83RAK8
-#EXTINF:-1,tvg-id="三立財經" tvg-name="三立財經" tvg-logo="https://epg.112114.xyz/logo/三立財經.png" group-title="港澳台",三立財經
-http://192.168.100.209:35455/youtube/CKjSm5ZeehE
 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
 http://192.168.100.209:35455/douyu/2901080
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
