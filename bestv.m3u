@@ -231,12 +231,8 @@ http://192.168.100.209:35455/youtube/CKjSm5ZeehE
 http://192.168.100.209:35455/douyu/2901080
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
 http://192.168.100.209:35455/douyu/3243427
-#EXTINF:-1 tvg-logo="https://imgo.hackhome.com/img2021/6/30/18/15598076.jpg" group-title="影视",漫威电影
-http://192.168.100.209:35455/douyu/6140589
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
 http://192.168.100.209:35455/douyu/4332
-#EXTINF:-1  group-title="影视",豆瓣高分
-http://192.168.100.209:35455/douyu/8770422
 #EXTINF:-1  group-title="影视",1905电影
 http://192.168.100.209:5678/1905.php?id=1905dy
 #EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="影视",天映经典
@@ -273,6 +269,8 @@ http://192.168.100.209:35455/huya/11601968
 http://192.168.100.209:35455/huya/11602033
 #EXTINF:-1  group-title="影视",最佳拍档
 http://192.168.100.209:35455/huya/11601972
+#EXTINF:-1  group-title="影视",郭德纲
+http://192.168.100.209:35455/huya/28795221
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
 http://113.117.74.26:8081/hls/1/index.m3u8
 #EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="体育",深圳体育
