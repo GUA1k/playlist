@@ -270,11 +270,11 @@ https://cntv.sbs/live?auth=2307280808&id=mlzq
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="体育",游戏风云
 https://cntv.sbs/live?auth=2307280808&id=yxfy
 #EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="体育",爱尔达体育1
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltasport_twn
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/tvkk/smt.php?id=eltasport_twn
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="体育",爱尔达体育2
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltasport2_twn
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/tvkk/smt.php?id=eltasport2_twn
 #EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="体育",爱尔达体育3
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=eltasport3_twn
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/tvkk/smt.php?id=eltasport3_twn
 #EXTINF:-1, group-title="体育",WWE
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=wwe_twn
 #EXTINF:-1, group-title="体育",WWE
