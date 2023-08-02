@@ -262,13 +262,17 @@ http://113.117.74.26:8081/hls/70/index.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
-http://192.168.100.209:5678/bestv.php?id=wxty
+http://192.168.100.209:5678/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
-http://192.168.100.209:5678/bestv.php?id=jbty
+http://192.168.100.209:5678/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球
-http://192.168.100.209:5678/bestv.php?id=mlzq
+http://192.168.100.209:5678/bestv.php?id=mlyyhd8m/8000000
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="体育",新视觉 8M
+http://192.168.100.209:5678/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="体育",游戏风云
-http://192.168.100.209:5678/bestv.php?id=yxfy
+http://192.168.100.209:5678/bestv.php?id=yxfy8m/8000000
+#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="体育",电竞天堂 8M
+https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
 #EXTINF:-1,tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="体育",爱尔达体育1
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/tvkk/smt.php?id=eltasport_twn
 #EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="体育",爱尔达体育2
@@ -279,11 +283,13 @@ http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/tvkk/smt.php?id=eltasport3_twn
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/ww/tv/smt.php?id=wwe_twn
 #EXTINF:-1, group-title="体育",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
-http://103.76.61.2:808/hls/162/index.m3u8
-#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="动画",哈哈炫动
-http://192.168.100.209:5678/bestv.php?id=hhxd
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="动画",青春动漫 8M
+http://192.168.100.209:5678/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="动画",宝宝动画 8M
+http://192.168.100.209:5678/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="动画",卡酷少儿
+http://192.168.100.209:5678/bestv.php?id=kkse8m/8000000
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="动画",动漫秀场
-http://192.168.100.209:5678/bestv.php?id=dmxc
+http://192.168.100.209:5678/bestv.php?id=dmxc8m/8000000
 #EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="动画",金鹰卡通
 http://192.168.100.209:5678/bestv.php?id=jykt
