@@ -194,7 +194,7 @@ http://107.167.12.58:27347/livehttpplay?channel_id=30019
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2台
 http://107.167.12.58:27347/livehttpplay?channel_id=30030 
 #EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="港澳台",ViuTVsix
-http://107.167.12.58:27347/livehttpplay?channel_id=20131 ViuTV6 HD+
+http://107.167.12.58:27347/livehttpplay?channel_id=20131
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",ViuTV
 http://107.167.12.58:27347/livehttpplay?channel_id=20132
 #EXTINF:-1,tvg-id="香港开电视" tvg-name="香港开电视" tvg-logo="https://epg.112114.xyz/logo/香港开电视.png" group-title="港澳台",香港开电视
@@ -203,69 +203,61 @@ http://51.89.21.73:27347/livehttpplay?channel_id=20152
 http://107.167.12.58:27347/livehttpplay?channel_id=30066 
 #EXTINF:-1,tvg-id="RHK 32" tvg-name="RHK 32" tvg-logo="https://epg.112114.xyz/logo/RHK32.png" group-title="港澳台",RHK 32
 http://107.167.12.58:27347/livehttpplay?channel_id=30067 
-#EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐
-rtmp://9sv2.mine.nu/sat/tv421
-#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="港澳台",东森超视
-rtmp://9sv2.mine.nu/sat/tv331
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
-rtmp://9sv2.mine.nu/sat/tv071
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
-rtmp://9sv2.mine.nu/sat/tv111
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视
-rtmp://9sv2.mine.nu/sat/tv051
-#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港澳台",寰宇新聞
-http://192.168.100.209:35455/youtube/B7Zp3d6xXWw
-#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="港澳台",鏡新聞
-http://192.168.100.209:35455/youtube/5n0y6b0Q25o
-#EXTINF:-1,tvg-id="東森Live" tvg-name="東森Live" tvg-logo="https://epg.112114.xyz/logo/東森LIVE.png" group-title="港澳台",東森Live
-http://192.168.100.209:35455/youtube/R2iMq5LKXco
-#EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="港澳台",東森財經
-http://192.168.100.209:35455/youtube/WHEPzbFA3hw
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港澳台",中天新聞
-http://192.168.100.209:35455/youtube/oIgbl7t0S_w
-#EXTINF:-1,tvg-id="三立live" tvg-name="三立live" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="港澳台",三立live
-http://192.168.100.209:35455/youtube/FoBfXvlOR6I
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVB
+http://8.210.88.135/1022/4g73.php?p=3
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞
 http://192.168.100.209:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS NEWS LIVE
 http://192.168.100.209:35455/youtube/m_dhMSvUCIc
+#EXTINF:-1,tvg-id="tvb欢乐台" tvg-name="tvb欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐台
+http://8.210.88.135/1022/4g68.php?p=3
+#EXTINF:-1,tvg-id="tvb精采台" tvg-name="tvb精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="港澳台",TVBS精采台
+http://8.210.88.135/1022/4g67.php?p=3
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视
+http://8.210.88.135/1022/4g02.php?p=3
+#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="港澳台",民视台湾台
+http://8.210.88.135/1022/4g01.php?p=3
 #EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="港澳台",民視新聞
 http://192.168.100.209:35455/youtube/ylYJSBUgaMA
-#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="港澳台",華視新聞
-http://192.168.100.209:35455/youtube/wM0g8EoUZ_E
-#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="港澳台",中視新聞
-http://192.168.100.209:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
+rtmp://9sv2.mine.nu/sat/tv071
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
 http://192.168.100.209:35455/youtube/xL0ch83RAK8
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
+http://8.210.88.135/1022/4g40.php?p=3
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
+http://8.210.88.135/1022/4g74.php?p=3
+#EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.112114.xyz/logo/中视菁采台.png" group-title="港澳台",中视菁采
+http://8.210.88.135/1022/4g64.php?p=3
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
+http://8.210.88.135/1022/4g41.php?p=3
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新闻
+http://8.210.88.135/1022/4g52.php?p=3
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
+rtmp://9sv2.mine.nu/sat/tv071
+#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
+http://192.168.100.209:35455/youtube/xL0ch83RAK8
+#EXTINF:-1,tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://epg.112114.xyz/logo/台视财经台.png" group-title="港澳台",台视财经
+http://8.210.88.135/1022/4g56.php?p=3
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港澳台",中天新聞
+http://192.168.100.209:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="港澳台",中天娱乐
 http://162.19.247.76:22222/live/ztyl/index.m3u8
 #EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳台",中天亚洲
 http://162.19.247.76:22222/live/ztyz/index.m3u8
-#EXTINF:-1,tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://epg.112114.xyz/logo/东森戏剧台.png" group-title="港澳台",东森戏剧
-http://162.19.247.76:22222/live/dsxj/index.m3u8
-#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="港澳台",东森电影
-http://162.19.247.76:22222/live/dsdyt/index.m3u8
-#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="港澳台",东森洋片
-http://162.19.247.76:22222/live/dsypt/index.m3u8
-#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="港澳台",天映经典台
-http://162.19.247.76:22222/live/tyjd/index.m3u8
-#EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="港澳台",中天娱乐台
-http://162.19.247.76:22222/live/ztyl/index.m3u8
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳台",中天亚洲台
-http://162.19.247.76:22222/live/ztyz/index.m3u8
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
-http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
-http://162.19.247.76:22222/live/zhongshi/index.m3u8
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
-http://162.19.247.76:22222/live/huashi/index.m3u8
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
-http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
-http://162.19.247.76:22222/live/huashi/index.m3u8
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
-http://162.19.247.76:22222/live/zhongshi/index.m3u8
-#EXTINF:-1  group-title="影视",快乐向前冲
+#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港澳台",寰宇新聞
+http://192.168.100.209:35455/youtube/B7Zp3d6xXWw
+#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="港澳台",鏡新聞
+http://192.168.100.209:35455/youtube/5n0y6b0Q25o
+#EXTINF:-1,tvg-id="三立live" tvg-name="三立live" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="港澳台",三立live
+http://192.168.100.209:35455/youtube/oZdzzvxTfUY
+#EXTINF:-1,tvg-id="東森新闻" tvg-name="東森新闻" tvg-logo="https://epg.112114.xyz/logo/東森新闻.png" group-title="港澳台",东森新闻
+http://192.168.100.209:35455/youtube/S5WOGu2HSes
+#EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="港澳台",東森財經
+http://192.168.100.209:35455/youtube/WHEPzbFA3hw
+#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="港澳台",东森超视
+rtmp://9sv2.mine.nu/sat/tv331
+#EXTINF:-1  group-title="影视",快乐向前冲周末开播
 http://192.168.100.209:35455/douyin/385925606236
 #EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
 http://192.168.100.209:35455/douyu/2901080
