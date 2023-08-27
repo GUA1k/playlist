@@ -156,27 +156,25 @@ http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1,tvg-id="CETV-4HD" tvg-name="CETV-4HD" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="卫视",CETV-4HD
 http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1,tvg-id="阜阳新闻综合" tvg-name="阜阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻综合.png" group-title="卫视",阜阳新闻综合
-http://321257.cn:8888/udp/238.1.78.124:6864
+http://192.168.100.209:5678/fytv.php?id=1
 #EXTINF:-1,tvg-id="阜阳教育频道" tvg-name="阜阳教育频道" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="卫视",阜阳教育频道
-http://321257.cn:8888/udp/238.1.78.126:6880
+http://192.168.100.209:5678/fytv.php?id=2
 #EXTINF:-1,tvg-id="阜阳公共频道" tvg-name="阜阳公共频道" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="卫视",阜阳公共频道
-http://321257.cn:8888/udp/238.1.78.125:6872
+http://192.168.100.209:5678/fytv.php?id=3
 #EXTINF:-1,tvg-id="阜阳都市文艺" tvg-name="阜阳都市文艺" tvg-logo="https://epg.112114.xyz/logo/阜阳都市文艺.png" group-title="卫视",阜阳都市文艺
-http://321257.cn:8888/udp/238.1.78.127:6888
-#EXTINF:-1,tvg-id="清华大学电视台" tvg-name="清华大学电视台" tvg-logo="https://epg.112114.xyz/logo/清华大学电视台.png" group-title="卫视",清华大学电视台
-http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+http://192.168.100.209:5678/fytv.php?id=4
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="卫视",梨园频道
 http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 #EXTINF:-1,tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png" group-title="卫视",河南戏曲
 http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 #EXTINF:-1,tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://epg.112114.xyz/logo/移动戏曲.png" group-title="卫视",移动戏曲
-http://222.89.19.18:9901/tsfile/live/1009_1.m3u8
+http://222.89.19.152:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1,tvg-id="郑州影视戏曲" tvg-name="郑州影视戏曲" tvg-logo="https://epg.112114.xyz/logo/郑州影视戏曲.png" group-title="卫视",郑州影视戏曲
-http://222.89.19.18:9901/tsfile/live/1051_1.m3u8
+http://222.89.19.152:9901/tsfile/live/1051_1.m3u8
 #EXTINF:-1,tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png" group-title="卫视",河南戏曲
-http://222.89.19.18:9901/tsfile/live/1011_1.m3u8
+http://222.89.19.152:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1,tvg-id="百姓调解" tvg-name="百姓调解" tvg-logo="https://epg.112114.xyz/logo/百姓调解.png" group-title="卫视",百姓调解
-http://222.89.19.18:9901/tsfile/live/1015_1.m3u8
+http://222.89.19.152:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="卫视",中国天气
 http://192.168.100.209:5678/cqyx.php?id=tianqiSD
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
