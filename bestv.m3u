@@ -206,13 +206,13 @@ http://192.168.100.209:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS NEWS LIVE
 http://192.168.100.209:35455/youtube/m_dhMSvUCIc
 #EXTINF:-1,tvg-id="tvb欢乐台" tvg-name="tvb欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐台
-http://8.210.88.135/1022/4g68.php?p=3
+http://8.210.88.135/1023/4g68.php?p=3
 #EXTINF:-1,tvg-id="tvb精采台" tvg-name="tvb精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="港澳台",TVBS精采台
-http://8.210.88.135/1022/4g67.php?p=3
+http://8.210.88.135/1023/4g67.php?p=3
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视
-http://8.210.88.135/1022/4g02.php?p=3
+http://8.210.88.135/1023/4g02.php?p=3
 #EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="港澳台",民视台湾台
-http://8.210.88.135/1022/4g01.php?p=3
+http://8.210.88.135/1023/4g01.php?p=3
 #EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="港澳台",民視新聞
 http://192.168.100.209:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
@@ -220,21 +220,21 @@ rtmp://9sv2.mine.nu/sat/tv071
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
 http://192.168.100.209:35455/youtube/xL0ch83RAK8
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
-http://8.210.88.135/1022/4g40.php?p=3
+http://8.210.88.135/1023/4g40.php?p=3
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
-http://8.210.88.135/1022/4g74.php?p=3
+http://8.210.88.135/1023/4g74.php?p=3
 #EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.112114.xyz/logo/中视菁采台.png" group-title="港澳台",中视菁采
-http://8.210.88.135/1022/4g64.php?p=3
+http://8.210.88.135/1023/4g64.php?p=3
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
-http://8.210.88.135/1022/4g41.php?p=3
+http://8.210.88.135/1023/4g41.php?p=3
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视新闻
-http://8.210.88.135/1022/4g52.php?p=3
+http://8.210.88.135/1023/4g52.php?p=3
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
 rtmp://9sv2.mine.nu/sat/tv071
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
 http://192.168.100.209:35455/youtube/xL0ch83RAK8
 #EXTINF:-1,tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://epg.112114.xyz/logo/台视财经台.png" group-title="港澳台",台视财经
-http://8.210.88.135/1022/4g56.php?p=3
+http://8.210.88.135/1023/4g56.php?p=3
 #EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="港澳台",中天新聞
 http://192.168.100.209:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="港澳台",中天娱乐
