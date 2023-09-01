@@ -66,19 +66,19 @@ http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://192.168.100.209:5678/ah.php?id=ahws
+http://192.168.100.209:5678/ahapp.php?id=ahws
 #EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.112114.xyz/logo/安徽经济生活.png" group-title="卫视",安徽经济生活
-http://192.168.100.209:5678/ah.php?id=ahjjsh
+http://192.168.100.209:5678/ahapp.php?id=ahjjsh
 #EXTINF:-1,tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="卫视",安徽影视频道
-http://192.168.100.209:5678/ah.php?id=ahys
+http://192.168.100.209:5678/ahapp.php?id=ahys
 #EXTINF:-1,tvg-id="安徽农业科教" tvg-name="安徽农业科教" tvg-logo="https://epg.112114.xyz/logo/安徽农业科教.png" group-title="卫视",安徽农业科教
-http://192.168.100.209:5678/ah.php?id=ahnykj
+http://192.168.100.209:5678/ahapp.php?id=ahnykj
 #EXTINF:-1,tvg-id="安徽公共" tvg-name="安徽公共" tvg-logo="https://epg.112114.xyz/logo/安徽公共.png" group-title="卫视",安徽公共频道
-http://192.168.100.209:5678/ah.php?id=ahgg
+http://192.168.100.209:5678/ahapp.php?id=ahgg
 #EXTINF:-1,tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://epg.112114.xyz/logo/安徽综艺体育.png" group-title="卫视",安徽综艺体育
-http://192.168.100.209:5678/ah.php?id=ahzyty
+http://192.168.100.209:5678/ahapp.php?id=ahzyty
 #EXTINF:-1,tvg-id="安徽国际" tvg-name="安徽国际" tvg-logo="https://epg.112114.xyz/logo/安徽国际.png" group-title="卫视",安徽国际频道
-http://192.168.100.209:5678/ah.php?id=ahgj
+http://192.168.100.209:5678/ahapp.php?id=ahgj
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" tvg-id="河南卫视" tvg-name="河南卫视",group-title="卫视",河南卫视
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" tvg-id="江西卫视" tvg-name="江西卫视",group-title="卫视",江西卫视
