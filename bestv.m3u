@@ -160,11 +160,11 @@ http://222.89.19.4:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1,tvg-id="百姓调解" tvg-name="百姓调解" tvg-logo="https://epg.112114.xyz/logo/百姓调解.png" group-title="卫视",百姓调解
 http://222.89.19.4:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://113.117.74.26:8081/hls/37/index.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=h19
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://113.117.74.26:8081/hls/36/index.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=h18
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://113.117.74.26:8081/hls/38/index.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=h20
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://107.167.12.58:27347/livehttpplay?channel_id=20127 
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
@@ -185,8 +185,6 @@ http://51.89.21.73:27347/livehttpplay?channel_id=20152
 http://107.167.12.58:27347/livehttpplay?channel_id=30066 
 #EXTINF:-1,tvg-id="RHK 32" tvg-name="RHK 32" tvg-logo="https://epg.112114.xyz/logo/RHK32.png" group-title="港澳台",RHK 32
 http://107.167.12.58:27347/livehttpplay?channel_id=30067 
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVB
-http://8.210.88.135/1022/4g73.php?p=3
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞
 http://192.168.100.209:35455/youtube/2mCSYvcfhtc
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS NEWS LIVE
@@ -201,6 +199,8 @@ https://sc2022.stream-link.org/tv2306.php?id=t15
 https://sc2022.stream-link.org/tv2306.php?id=h22
 #EXTINF:-1 tvg-id="9999" tvg-name="TVB星河台" tvg-logo="http://www.stream-link.org/tv_logo/mytv_214.png" group-title="港澳台",TVB星河台
 https://sc2022.stream-link.org/tv2306.php?id=h23
+#EXTINF:-1 tvg-id="9999" tvg-name="TVB千禧經典台" tvg-logo="http://www.stream-link.org/tv_logo/tvb_classic.png" group-title="港澳台",TVB千禧經典台
+https://sc2022.stream-link.org/tv2306.php?id=h24
 #EXTINF:-1 tvg-id="9999" tvg-name="TVB經典劇台" tvg-logo="http://www.stream-link.org/tv_logo/mytv_86.png" group-title="港澳台",TVB經典劇台
 https://sc2022.stream-link.org/tv2306.php?id=h24
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视
@@ -301,20 +301,20 @@ https://sc2022.stream-link.org/tv2306.php?id=s03
 https://sc2022.stream-link.org/tv2306.php?id=s01
 #EXTINF:-1 tvg-id="999" tvg-name="FIFA+" tvg-logo="http://www.stream-link.org/tv_logo/fifa_plus.png" group-title="体育",FIFA+
 https://sc2022.stream-link.org/tv2306.php?id=s12
-#EXTINF:-1 tvg-id="999" tvg-name="Tennis Channel" tvg-logo="http://www.stream-link.org/tv_logo/tennis_channel.png" group-title="体育",Tennis Channel
-https://sc2022.stream-link.org/tv2306.php?id=s13
 #EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS XTRA" tvg-logo="http://www.stream-link.org/tv_logo/bein_sports_xtra.png" group-title="体育",beIN SPORTS XTRA
 https://sc2022.stream-link.org/tv2306.php?id=s14
 #EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS 1" tvg-logo="http://www.stream-link.org/tv_logo/bein_sports_1.png" group-title="体育",beIN SPORTS 1
 https://sc2022.stream-link.org/tv2306.php?id=s15
+#EXTINF:-1 tvg-id="999" tvg-name="測試05" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="体育",Now Sports Prime
+https://sc2022.stream-link.org/tv2306.php?id=c05
 #EXTINF:-1 tvg-id="999" tvg-name="Eleven 1" tvg-logo="http://www.stream-link.org/tv_logo/eleven_1.png" group-title="体育",Eleven 1
 https://sc2022.stream-link.org/tv2306.php?id=s16
 #EXTINF:-1 tvg-id="999" tvg-name=Eleven 2" tvg-logo="http://www.stream-link.org/tv_logo/eleven_2.png" group-title="体育",Eleven 2
 https://sc2022.stream-link.org/tv2306.php?id=s17
-#EXTINF:-1 tvg-id="999" tvg-name="Eleven+" tvg-logo="http://www.stream-link.org/tv_logo/eleven.png" group-title="体育",Eleven+
-https://sc2022.stream-link.org/tv2306.php?id=s18
-#EXTINF:-1 tvg-id="999" tvg-name="Eleven_ Live" tvg-logo="http://www.stream-link.org/tv_logo/eleven.png" group-title="体育",Eleven+ Live
+#EXTINF:-1 tvg-id="999" tvg-name="ELTA Sports 1" tvg-logo="http://www.stream-link.org/tv_logo/elta_sports_1.png" group-title="体育",ELTA Sports 1
 https://sc2022.stream-link.org/tv2306.php?id=s19
+#EXTINF:-1 tvg-id="999" tvg-name="ELTA Sports 2" tvg-logo="http://www.stream-link.org/tv_logo/elta_sports_2.png" group-title="体育",ELTA Sports 2
+https://sc2022.stream-link.org/tv2306.php?id=s18
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
 http://live.cooltv.top/tv/bestv.php?id=40
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
