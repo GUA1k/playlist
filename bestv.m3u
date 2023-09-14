@@ -35,8 +35,12 @@ http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/in
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" tvg-id="CCTV17" tvg-name="CCTV17",group-title="央视",CCTV17
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
+http://192.168.100.209:5678/cqyx.php?id=CCTV4K
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
-http://61.138.167.36:9901/tsfile/live/1053_1.m3u8
+http://192.168.100.209:5678/cqyx.php?id=CCTV16_4K
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="央视",欢笑剧场4K
+http://192.168.100.209:5678/cqyx.php?id=hxjc_4K
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视",CCTV第一剧场
 http://111.20.40.171/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场
@@ -66,7 +70,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://192.168.100.209:5678/ahapp.php?id=ahws
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" tvg-id="河南卫视" tvg-name="河南卫视",group-title="卫视",河南卫视
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" tvg-id="江西卫视" tvg-name="江西卫视",group-title="卫视",江西卫视
@@ -131,14 +135,6 @@ http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225738/1/in
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225759/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视",group-title="卫视",黑龙江卫视
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="CETV-1HD" tvg-name="CETV-1HD" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="卫视",CETV-1HD
-http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-#EXTINF:-1,tvg-id="CETV-2HD" tvg-name="CETV-2HD" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="卫视",CETV-2HD
-http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-#EXTINF:-1,tvg-id="CETV-3HD" tvg-name="CETV-3HD" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="卫视",CETV-3HD
-http://txycsbl.centv.cn/zb/0822cetv3.m3u8
-#EXTINF:-1,tvg-id="CETV-4HD" tvg-name="CETV-4HD" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="卫视",CETV-4HD
-http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1,tvg-id="阜阳新闻综合" tvg-name="阜阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻综合.png" group-title="卫视",阜阳新闻综合
 http://192.168.100.209:5678/fytv.php?id=1
 #EXTINF:-1,tvg-id="阜阳教育频道" tvg-name="阜阳教育频道" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="卫视",阜阳教育频道
@@ -290,11 +286,13 @@ http://192.168.100.209:35455/huya/11602033
 #EXTINF:-1  group-title="影视",最佳拍档
 http://192.168.100.209:35455/huya/11601972
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
-http://113.117.74.26:8081/hls/1/index.m3u8
+http://r.jdshipin.com/LiYdg
 #EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="体育",深圳体育
 http://113.117.74.26:8081/hls/70/index.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
+https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-id="999" tvg-name="緯來體育" tvg-logo="http://www.stream-link.org/tv_logo/videoland_sport.png" group-title="体育",緯來體育
 https://sc2022.stream-link.org/tv2306.php?id=s03
 #EXTINF:-1 tvg-id="9999" tvg-name="賽事直播" tvg-logo="http://www.stream-link.org/tv_logo/football.png" group-title="体育",賽事直播
@@ -305,7 +303,7 @@ https://sc2022.stream-link.org/tv2306.php?id=s12
 https://sc2022.stream-link.org/tv2306.php?id=s14
 #EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS 1" tvg-logo="http://www.stream-link.org/tv_logo/bein_sports_1.png" group-title="体育",beIN SPORTS 1
 https://sc2022.stream-link.org/tv2306.php?id=s15
-#EXTINF:-1 tvg-id="999" tvg-name="測試05" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="体育",Now Sports Prime
+#EXTINF:-1 tvg-id="999" tvg-name="Now Sports Prime" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="体育",Now Sports Prime
 https://sc2022.stream-link.org/tv2306.php?id=c05
 #EXTINF:-1 tvg-id="999" tvg-name="Eleven 1" tvg-logo="http://www.stream-link.org/tv_logo/eleven_1.png" group-title="体育",Eleven 1
 https://sc2022.stream-link.org/tv2306.php?id=s16
@@ -316,13 +314,13 @@ https://sc2022.stream-link.org/tv2306.php?id=s19
 #EXTINF:-1 tvg-id="999" tvg-name="ELTA Sports 2" tvg-logo="http://www.stream-link.org/tv_logo/elta_sports_2.png" group-title="体育",ELTA Sports 2
 https://sc2022.stream-link.org/tv2306.php?id=s18
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
-http://live.cooltv.top/tv/bestv.php?id=40
+https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
-http://live.cooltv.top/tv/yqdtv.php?id=146
+https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球
-http://live.cooltv.top/tv/yqdtv.php?id=148
+https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="体育",新视觉
-http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226237/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="体育",游戏风云
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1, group-title="体育",WWE
@@ -361,3 +359,55 @@ http://line.liveott.ru:80/004cbbae88/ad9a16a568/1032475
 http://line.liveott.ru:80/004cbbae88/ad9a16a568/1032474
 #EXTINF:0 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 7" tvg-logo="http://logo.protv.cc/picons/logos/UK/NOW-SPORTS7.png" group-title="🏮NOW SPORTS LiveOtt", UK| NOW HK NOW SPORTS 7
 http://line.liveott.ru:80/004cbbae88/ad9a16a568/1032473
+#EXTINF:-1,group-title="体育",咪咕体育-1
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-2
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226140/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-3
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-4
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226143/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-5
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226146/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-6
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226149/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-7
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226152/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-8
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226151/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-9
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226157/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-10
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226154/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-11
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226177/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-12
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226183/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-13
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226186/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-14
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226223/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-15
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226226/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-16
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226227/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-17
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226229/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-18
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226230/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-19
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226233/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-20
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226236/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-21
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226255/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-22
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226258/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-23
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226261/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-24
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226264/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕体育-25
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226292/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title="体育",咪咕视频-26
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226323/1/index.m3u8?fmt=ts2hls
