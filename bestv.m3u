@@ -314,7 +314,7 @@ https://sc2022.stream-link.org/tv2306.php?id=s19
 #EXTINF:-1 tvg-id="999" tvg-name="ELTA Sports 2" tvg-logo="http://www.stream-link.org/tv_logo/elta_sports_2.png" group-title="体育",ELTA Sports 2
 https://sc2022.stream-link.org/tv2306.php?id=s18
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+http://222.71.14.202:3333/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
 http://192.168.100.209:5678/yqgd.php?id=146
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球
