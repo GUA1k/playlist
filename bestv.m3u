@@ -64,11 +64,11 @@ http://111.20.40.165/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="央视",CCTV电视指南
 http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
-http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+http://192.168.100.209:5678/yqgd.php?id=291
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
-http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+http://192.168.100.209:5678/yqgd.php?id=180
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
-http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+http://192.168.100.209:5678/yqgd.php?id=290
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" tvg-id="河南卫视" tvg-name="河南卫视",group-title="卫视",河南卫视
@@ -234,7 +234,9 @@ http://162.19.247.76:22222/live/ztyl/index.m3u8
 #EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳台",中天亚洲
 http://162.19.247.76:22222/live/ztyz/index.m3u8
 #EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港澳台",寰宇新聞
-http://192.168.100.209:35455/youtube/B7Zp3d6xXWw
+http://192.168.100.209:35455/youtube/6IquAgfvYmc
+#EXTINF:-1,tvg-id="寰宇台湾新聞" tvg-name="寰宇台湾新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇台湾新聞.png" group-title="港澳台",寰宇台湾新聞
+http://192.168.100.209:35455/youtube/UcTIv4ZaE5Y
 #EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="港澳台",鏡新聞
 http://192.168.100.209:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1,tvg-id="三立live" tvg-name="三立live" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="港澳台",三立live
@@ -295,8 +297,6 @@ https://cloud.yumixiu768.com/tmp/123.m3u8
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-id="999" tvg-name="緯來體育" tvg-logo="http://www.stream-link.org/tv_logo/videoland_sport.png" group-title="体育",緯來體育
 https://sc2022.stream-link.org/tv2306.php?id=s03
-#EXTINF:-1 tvg-id="9999" tvg-name="賽事直播" tvg-logo="http://www.stream-link.org/tv_logo/football.png" group-title="体育",賽事直播
-https://sc2022.stream-link.org/tv2306.php?id=s01
 #EXTINF:-1 tvg-id="999" tvg-name="FIFA+" tvg-logo="http://www.stream-link.org/tv_logo/fifa_plus.png" group-title="体育",FIFA+
 https://sc2022.stream-link.org/tv2306.php?id=s12
 #EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS XTRA" tvg-logo="http://www.stream-link.org/tv_logo/bein_sports_xtra.png" group-title="体育",beIN SPORTS XTRA
@@ -316,9 +316,9 @@ https://sc2022.stream-link.org/tv2306.php?id=s18
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
 https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
-https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+http://192.168.100.209:5678/yqgd.php?id=146
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球
-https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+http://192.168.100.209:5678/yqgd.php?id=148
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="体育",新视觉
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226237/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="体育",游戏风云
