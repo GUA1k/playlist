@@ -168,11 +168,11 @@ http://222.89.19.4:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1,tvg-id="百姓调解" tvg-name="百姓调解" tvg-logo="https://epg.112114.xyz/logo/百姓调解.png" group-title="卫视",百姓调解
 http://222.89.19.4:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-https://sc2022.stream-link.org/tv2306.php?id=h19
+http://113.117.74.23:8081/hls/37/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-https://sc2022.stream-link.org/tv2306.php?id=h18
+http://113.117.74.23:8081/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-https://sc2022.stream-link.org/tv2306.php?id=h20
+http://113.117.74.23:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://107.167.12.58:27347/livehttpplay?channel_id=20127 
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
