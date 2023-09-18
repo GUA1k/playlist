@@ -315,8 +315,8 @@ https://sc2022.stream-link.org/tv2306.php?id=s12
 https://sc2022.stream-link.org/tv2306.php?id=s14
 #EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS 1" tvg-logo="http://www.stream-link.org/tv_logo/bein_sports_1.png" group-title="体育",beIN SPORTS 1
 https://sc2022.stream-link.org/tv2306.php?id=s15
-#EXTINF:-1 tvg-id="999" tvg-name="Now Sports Prime" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="体育",Now Sports Prime
-https://sc2022.stream-link.org/tv2306.php?id=c05
+#EXTINF:-1 tvg-id="9999" tvg-name="Now精選體育" tvg-logo="http://www.stream-link.org/tv_logo/now_630.png" group-title="体育",Now精選體育
+https://sc2022.stream-link.org/tv2306.php?id=s01
 #EXTINF:-1 tvg-id="999" tvg-name="Eleven 1" tvg-logo="http://www.stream-link.org/tv_logo/eleven_1.png" group-title="体育",Eleven 1
 https://sc2022.stream-link.org/tv2306.php?id=s16
 #EXTINF:-1 tvg-id="999" tvg-name=Eleven 2" tvg-logo="http://www.stream-link.org/tv_logo/eleven_2.png" group-title="体育",Eleven 2
@@ -325,7 +325,7 @@ https://sc2022.stream-link.org/tv2306.php?id=s17
 https://sc2022.stream-link.org/tv2306.php?id=s19
 #EXTINF:-1 tvg-id="999" tvg-name="ELTA Sports 2" tvg-logo="http://www.stream-link.org/tv_logo/elta_sports_2.png" group-title="体育",ELTA Sports 2
 https://sc2022.stream-link.org/tv2306.php?id=s18
-#EXTINF:-1 tvg-id="999" tvg-name="ELTA Sports 3" tvg-logo="http://www.stream-link.org/tv_logo/elta_sports_3.png" group-title="體育休閒",ELTA Sports 3
+#EXTINF:-1 tvg-id="999" tvg-name="ELTA Sports 3" tvg-logo="http://www.stream-link.org/tv_logo/elta_sports_3.png" group-title="体育",ELTA Sports 3
 https://sc2022.stream-link.org/tv2306.php?id=s04
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
 http://222.71.14.202:3333/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
