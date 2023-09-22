@@ -315,6 +315,12 @@ https://sc2022.stream-link.org/tv2306.php?id=s12
 https://sc2022.stream-link.org/tv2306.php?id=s14
 #EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS 1" tvg-logo="http://www.stream-link.org/tv_logo/bein_sports_1.png" group-title="体育",beIN SPORTS 1
 https://sc2022.stream-link.org/tv2306.php?id=s15
+#EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS 2" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports2.png" group-title="体育",beIN SPORTS 2
+https://sc2022.stream-link.org/tv2306.php?id=s20
+#EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS 3" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports3.png" group-title="体育",beIN SPORTS 3
+https://sc2022.stream-link.org/tv2306.php?id=s21
+#EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS 4" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports4.png" group-title="体育",beIN SPORTS 4
+https://sc2022.stream-link.org/tv2306.php?id=s22
 #EXTINF:-1 tvg-id="9999" tvg-name="Now精選體育" tvg-logo="http://www.stream-link.org/tv_logo/now_630.png" group-title="体育",Now精選體育
 https://sc2022.stream-link.org/tv2306.php?id=s01
 #EXTINF:-1 tvg-id="999" tvg-name="Eleven 1" tvg-logo="http://www.stream-link.org/tv_logo/eleven_1.png" group-title="体育",Eleven 1
