@@ -291,6 +291,9 @@ http://192.168.100.209:35455/huya/11601972
 http://183.30.206.71:6556/rtp/239.77.0.168:5146
 #EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="体育",深圳体育
 http://183.30.206.71:6556/rtp/239.77.1.128:5146
+
+#EXTINF:-1 tvg-id="999" tvg-name="TNT NBA" tvg-logo="https://www.stream-link.org/tv_logo/tnt_nba.png" group-title="体育",TNT NBA
+https://sc2022.stream-link.org/tv2306.php?id=s10
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
