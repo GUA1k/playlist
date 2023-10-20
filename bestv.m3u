@@ -300,6 +300,13 @@ https://cloud.yumixiu768.com/tmp/123.m3u8
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-id="999" tvg-name="緯來體育" tvg-logo="http://www.stream-link.org/tv_logo/videoland_sport.png" group-title="体育",緯來體育
 https://sc2022.stream-link.org/tv2306.php?id=s03
+
+#EXTINF:-1,tvg-id="ELTA体育1台" tvg-name="ELTA体育1台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育1台.png" group-title="其他",ELTA体育1台
+http://flv.mp4cdn.live/aa3314.php?id=188
+#EXTINF:-1,tvg-id="ELTA体育2台" tvg-name="ELTA体育2台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育2台.png" group-title="其他",ELTA体育2台
+http://flv.mp4cdn.live/aa3314.php?id=189
+#EXTINF:-1,tvg-id="ELTA体育3台" tvg-name="ELTA体育3台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育3台.png" group-title="其他",ELTA体育3台
+http://flv.mp4cdn.live/aa3314.php?id=190
 #EXTINF:-1 tvg-id="999" tvg-name="FIFA+" tvg-logo="http://www.stream-link.org/tv_logo/fifa_plus.png" group-title="体育",FIFA+
 https://sc2022.stream-link.org/tv2306.php?id=s12
 #EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS XTRA" tvg-logo="http://www.stream-link.org/tv_logo/bein_sports_xtra.png" group-title="体育",beIN SPORTS XTRA
