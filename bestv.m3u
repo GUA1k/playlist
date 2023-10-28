@@ -158,19 +158,15 @@ http://113.117.74.205:8081/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://113.117.74.205:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="港澳台",翡翠台
-http://27.46.125.240:800/hls/98/index.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://27.46.125.240:800/hls/84/index.m3u8
-#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="港澳台",ViuTVsix
-http://27.46.125.240:800/hls/85/index.m3u8
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",ViuTV
-http://27.46.125.240:800/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_j2.png" group-title="港澳台",J2台
-http://27.46.125.240:800/hls/81/index.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=h03
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_news.png" group-title="港澳台",無綫新聞台
-http://27.46.125.240:800/hls/82/index.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=h04
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="港澳台",無綫財經·體育·資訊台
-http://27.46.125.240:800/hls/83/index.m3u8
+https://sc2022.stream-link.org/tv2306.php?id=h05
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.stream-link.org/tv_logo/hkibc.png" group-title="港澳台",香港國際財經台
 https://sc2022.stream-link.org/tv2306.php?id=h15
 #EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://www.stream-link.org/tv_logo/hoy_tv.png" group-title="港澳台",香港開電視
