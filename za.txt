@@ -607,8 +607,5 @@ CHC家庭影院,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240323_1/e
 戏曲,#genre#
 梨园频道,http://183.94.40.49:9901/tsfile/live/1016_1.m3u8
 河南戏曲,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
-移动戏曲,http://222.89.19.243:9901/tsfile/live/1009_1.m3u8
-郑州影视戏曲,http://222.89.19.243:9901/tsfile/live/1051_1.m3u8
-河南戏曲,http://222.89.19.243:9901/tsfile/live/1011_1.m3u8
-百姓调解,http://222.89.19.243:9901/tsfile/live/1015_1.m3u8
+
 
