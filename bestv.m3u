@@ -334,7 +334,7 @@ https://sc2022.stream-link.org/tv2306.php?id=s21
 #EXTINF:-1 tvg-id="999" tvg-name="Astro SUPERSPORT 4" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png" group-title="体育",Astro SUPERSPORT 4
 https://sc2022.stream-link.org/tv2306.php?id=s22
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
-http://192.168.100.209:5678/bestv.php?id=wxtyhd8m/8000000
+http://cfss.cc/ds/bst.php?id=Cf-54
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1, group-title="体育",WWE
