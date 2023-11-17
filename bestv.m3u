@@ -307,12 +307,12 @@ https://cloud.yumixiu768.com/tmp/123.m3u8
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-id="999" tvg-name="緯來體育" tvg-logo="http://www.stream-link.org/tv_logo/videoland_sport.png" group-title="体育",緯來體育
 https://sc2022.stream-link.org/tv2306.php?id=s03
-#EXTINF:-1,tvg-id="ELTA体育1台" tvg-name="ELTA体育1台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育1台.png" group-title="其他",ELTA体育1台
+#EXTINF:-1,tvg-id="ELTA体育1台" tvg-name="ELTA体育1台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育1台.png" group-title="体育",ELTA体育1台
 http://ddi.yj011.net:8080/sat/md051.flv
-#EXTINF:-1,tvg-id="ELTA体育2台" tvg-name="ELTA体育2台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育2台.png" group-title="其他",ELTA体育2台
+#EXTINF:-1,tvg-id="ELTA体育2台" tvg-name="ELTA体育2台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育2台.png" group-title="体育",ELTA体育2台
 http://ddi.yj011.net:8080/sat/md041.flv
-#EXTINF:-1,tvg-id="ELTA体育3台" tvg-name="ELTA体育3台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育3台.png" group-title="其他",ELTA体育3台
-http://flv.mp4cdn.live/aa3314.php?id=190
+#EXTINF:-1,tvg-id="ELTA体育3台" tvg-name="ELTA体育3台" tvg-logo="https://epg.112114.xyz/logo/ELTA体育3台.png" group-title="体育",ELTA体育3台
+http://ddi.yj011.net:8080/sat/md031.flv
 #EXTINF:-1 tvg-id="999" tvg-name="FIFA+" tvg-logo="http://www.stream-link.org/tv_logo/fifa_plus.png" group-title="体育",FIFA+
 https://sc2022.stream-link.org/tv2306.php?id=s12
 #EXTINF:-1 tvg-id="999" tvg-name="beIN SPORTS XTRA" tvg-logo="http://www.stream-link.org/tv_logo/bein_sports_xtra.png" group-title="体育",beIN SPORTS XTRA
@@ -334,60 +334,61 @@ https://sc2022.stream-link.org/tv2306.php?id=s21
 #EXTINF:-1 tvg-id="999" tvg-name="Astro SUPERSPORT 4" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png" group-title="体育",Astro SUPERSPORT 4
 https://sc2022.stream-link.org/tv2306.php?id=s22
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
-http://cfss.cc/ds/bst.php?id=Cf-54
+http://192.168.100.209:5678/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?&HlsSubType=&encrypt=
+http://192.168.100.209:5678/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1, group-title="体育",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,group-title="体育",咪咕体育-1
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-2
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226140/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226140/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-3
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-4
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226143/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226143/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-5
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226146/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226146/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-6
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226149/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226149/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-7
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226152/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226152/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-8
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226151/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226151/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-9
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226157/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226157/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-10
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226154/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226154/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-11
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226177/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226177/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-12
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226183/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226183/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-13
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226186/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226186/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-14
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226223/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226223/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-15
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226226/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226226/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-16
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226227/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226227/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-17
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226229/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226229/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-18
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226230/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226230/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-19
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226233/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226233/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-20
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226236/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226236/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-21
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226255/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226255/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-22
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226258/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226258/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-23
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226261/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226261/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-24
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226264/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226264/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕体育-25
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226292/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226292/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,group-title="体育",咪咕视频-26
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226323/1/index.m3u8?fmt=ts2hls
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226323/1/index.m3u8?fmt=ts2hls
+
