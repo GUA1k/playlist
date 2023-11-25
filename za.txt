@@ -128,98 +128,118 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 体坛名栏汇,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1600458454_-832716323/wd_r3/cctv/titanminglan/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218759&timezone=UTC&mtv_session=b2e617f735c59ee2def1e133e7a80a5c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0c1268f6846ee93a05130bcd7741b787
 新片放映厅,http://hms2904nc1972666634.live.aikan.miguvideo.com/wh7f454c46tw1600732348_-360169236/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218930&timezone=UTC&mtv_session=63000e2fea84d8a6504746c34e7d4d75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b6ef40cfda8ddfec090a09afb9dd2444
 
-上海电信,#genre#
-CCTV1 8M,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV2 8M,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV3 8M,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-CCTV4 8M,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-CCTV5 8M,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV5+ 8M,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-CCTV6 8M,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-CCTV7 8M,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-CCTV8 8M,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-CCTV9 8M,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-CCTV10 8M,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-CCTV11 8M,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-CCTV12 8M,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV13 8M,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV14 8M,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-CCTV15 8M,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-CCTV16 8M,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
-江苏卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-广西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-四川卫视 8M,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-湖南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-浙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-东方卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-北京卫视 8M,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-天津卫视 8M,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-辽宁卫视 8M,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-安徽卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-黑龙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-广东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视 8M,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-湖北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-东南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-云南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-贵州卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-海南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-欢笑剧场 8M,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-劲爆体育 8M,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-快乐垂钓 8M,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-金鹰纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-戏曲精选 8M,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-上海第一财经 8M,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-上视新闻 8M,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-上海都市 8M,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-上海纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-东方影视 8M,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-五星体育 8M,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-上视外语 8M,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-七彩戏剧 8M,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-上海教育 8M,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-全纪实 8M,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
-生活时尚 8M,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-新视觉 8M,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-游戏风云 8M,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-热门综艺 8M,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
-超级体育 8M,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-健康养生 8M,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-百变课堂 8M,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
-看天下精选 8M,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-华语影院 8M,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-电竞天堂 8M,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-青春动漫 8M,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-宝宝动画 8M,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-星光影院 8M,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-谍战剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-全球大片 8M,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-热门剧场 8M,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-陶瓷高清 8M,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
-中国教育-1 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-中国教育-4 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-卡酷少儿 8M,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-纪实科教 8M,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-茶频道 8M,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
-足球高清 8M,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-炫动卡通 8M,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-东方财经 8M,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-都市剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-动漫秀场 8M,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
-法治天地 8M,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-金色学堂 8M,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
-魅力足球 8M,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+河南移动,#genre#
+CCTV1,http://39.165.35.152:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
+CCTV2,http://39.165.35.152:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
+CCTV3,http://39.165.35.152:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
+CCTV4,http://39.165.35.152:9901/tsfile/live/0004_1.m3u8?key=txiptv&url=tvzb.com
+CCTV5,http://39.165.35.152:9901/tsfile/live/0005_1.m3u8?key=txiptv&url=tvzb.com
+CCTV6,http://39.165.35.152:9901/tsfile/live/0006_1.m3u8?key=txiptv&url=tvzb.com
+CCTV7,http://39.165.35.152:9901/tsfile/live/0007_1.m3u8?key=txiptv&url=tvzb.com
+CCTV8,http://39.165.35.152:9901/tsfile/live/0008_1.m3u8?key=txiptv&url=tvzb.com
+CCTV9,http://39.165.35.152:9901/tsfile/live/0009_1.m3u8?key=txiptv&url=tvzb.com
+CCTV10,http://39.165.35.152:9901/tsfile/live/0010_1.m3u8?key=txiptv&url=tvzb.com
+CCTV11,http://39.165.35.152:9901/tsfile/live/0011_1.m3u8?key=txiptv&url=tvzb.com
+CCTV12,http://39.165.35.152:9901/tsfile/live/0012_1.m3u8?key=txiptv&url=tvzb.com
+CCTV13,http://39.165.35.152:9901/tsfile/live/0013_1.m3u8?key=txiptv&url=tvzb.com
+CCTV14,http://39.165.35.152:9901/tsfile/live/0014_1.m3u8?key=txiptv&url=tvzb.com
+CCTV15,http://39.165.35.152:9901/tsfile/live/0015_1.m3u8?key=txiptv&url=tvzb.com
+河南卫视,http://39.165.35.152:9901/tsfile/live/0139_1.m3u8?key=txiptv&url=tvzb.com
+浙江卫视,http://39.165.35.152:9901/tsfile/live/0124_1.m3u8?key=txiptv&url=tvzb.com
+江苏卫视,http://39.165.35.152:9901/tsfile/live/0127_1.m3u8?key=txiptv&url=tvzb.com
+CCTV5P,http://39.165.35.152:9901/tsfile/live/0016_1.m3u8?key=txiptv&url=tvzb.com
+家有购物移动,http://39.165.35.152:9901/tsfile/live/1097_1.m3u8?key=txiptv&url=tvzb.com
+央广购物移动,http://39.165.35.152:9901/tsfile/live/1098_1.m3u8?key=txiptv&url=tvzb.com
+环球购物移动,http://39.165.35.152:9901/tsfile/live/1100_1.m3u8?key=txiptv&url=tvzb.com
+好享购物移动,http://39.165.35.152:9901/tsfile/live/1101_1.m3u8?key=txiptv&url=tvzb.com
+风尚购物移动,http://39.165.35.152:9901/tsfile/live/1102_1.m3u8?key=txiptv&url=tvzb.com
+快乐购物移动,http://39.165.35.152:9901/tsfile/live/1103_1.m3u8?key=txiptv&url=tvzb.com
+河南卫视移动,http://39.165.35.152:9901/tsfile/live/1105_1.m3u8?key=txiptv&url=tvzb.com
+都市频道移动,http://39.165.35.152:9901/tsfile/live/1106_1.m3u8?key=txiptv&url=tvzb.com
+民生频道移动,http://39.165.35.152:9901/tsfile/live/1109_1.m3u8?key=txiptv&url=tvzb.com
+法制频道移动,http://39.165.35.152:9901/tsfile/live/1110_1.m3u8?key=txiptv&url=tvzb.com
+电视剧频移动,http://39.165.35.152:9901/tsfile/live/1111_1.m3u8?key=txiptv&url=tvzb.com
+新闻频道移动,http://39.165.35.152:9901/tsfile/live/1112_1.m3u8?key=txiptv&url=tvzb.com
+欢腾购物移动,http://39.165.35.152:9901/tsfile/live/1113_1.m3u8?key=txiptv&url=tvzb.com
+公共频道移动,http://39.165.35.152:9901/tsfile/live/1114_1.m3u8?key=txiptv&url=tvzb.com
+乡村频道移动,http://39.165.35.152:9901/tsfile/live/1115_1.m3u8?key=txiptv&url=tvzb.com
+国际频道移动,http://39.165.35.152:9901/tsfile/live/1067_1.m3u8?key=txiptv&url=tvzb.com
+晴彩中原移动,http://39.165.35.152:9901/tsfile/live/1117_1.m3u8?key=txiptv&url=tvzb.com
+移动戏曲移动,http://39.165.35.152:9901/tsfile/live/1118_1.m3u8?key=txiptv&url=tvzb.com
+文物宝库移动,http://39.165.35.152:9901/tsfile/live/1119_1.m3u8?key=txiptv&url=tvzb.com
+梨园频道移动,http://39.165.35.152:9901/tsfile/live/1120_1.m3u8?key=txiptv&url=tvzb.com
+武术世界移动,http://39.165.35.152:9901/tsfile/live/1121_1.m3u8?key=txiptv&url=tvzb.com
+美食汇移动,http://39.165.35.152:9901/tsfile/live/1071_1.m3u8?key=txiptv&url=tvzb.com
+棋牌汇移动,http://39.165.35.152:9901/tsfile/live/1123_1.m3u8?key=txiptv&url=tvzb.com
+调解剧场移动,http://39.165.35.152:9901/tsfile/live/1072_1.m3u8?key=txiptv&url=tvzb.com
+风尚河南移动,http://39.165.35.152:9901/tsfile/live/1125_1.m3u8?key=txiptv&url=tvzb.com
+国学频道移动,http://39.165.35.152:9901/tsfile/live/1074_1.m3u8?key=txiptv&url=tvzb.com
+欢腾购物移动,http://39.165.35.152:9901/tsfile/live/1163_1.m3u8?key=txiptv&url=tvzb.com
+浙江卫视移动,http://39.165.35.152:9901/tsfile/live/1127_1.m3u8?key=txiptv&url=tvzb.com
+东方卫视移动,http://39.165.35.152:9901/tsfile/live/1128_1.m3u8?key=txiptv&url=tvzb.com
+江苏卫视移动,http://39.165.35.152:9901/tsfile/live/1129_1.m3u8?key=txiptv&url=tvzb.com
+北京卫视移动,http://39.165.35.152:9901/tsfile/live/1130_1.m3u8?key=txiptv&url=tvzb.com
+广东卫视移动,http://39.165.35.152:9901/tsfile/live/1131_1.m3u8?key=txiptv&url=tvzb.com
+黑龙江高清移动,http://39.165.35.152:9901/tsfile/live/1132_1.m3u8?key=txiptv&url=tvzb.com
+山东卫视移动,http://39.165.35.152:9901/tsfile/live/1133_1.m3u8?key=txiptv&url=tvzb.com
+安徽卫视移动,http://39.165.35.152:9901/tsfile/live/1134_1.m3u8?key=txiptv&url=tvzb.com
+辽宁卫视移动,http://39.165.35.152:9901/tsfile/live/1135_1.m3u8?key=txiptv&url=tvzb.com
+陕西卫视移动,http://39.165.35.152:9901/tsfile/live/1136_1.m3u8?key=txiptv&url=tvzb.com
+贵州卫视移动,http://39.165.35.152:9901/tsfile/live/1137_1.m3u8?key=txiptv&url=tvzb.com
+河北卫视移动,http://39.165.35.152:9901/tsfile/live/1138_1.m3u8?key=txiptv&url=tvzb.com
+江西卫视移动,http://39.165.35.152:9901/tsfile/live/1139_1.m3u8?key=txiptv&url=tvzb.com
+湖南卫视移动,http://39.165.35.152:9901/tsfile/live/1140_1.m3u8?key=txiptv&url=tvzb.com
+深圳卫视移动,http://39.165.35.152:9901/tsfile/live/1141_1.m3u8?key=txiptv&url=tvzb.com
+四川卫视移动,http://39.165.35.152:9901/tsfile/live/1142_1.m3u8?key=txiptv&url=tvzb.com
+湖北卫视移动,http://39.165.35.152:9901/tsfile/live/1143_1.m3u8?key=txiptv&url=tvzb.com
+天津卫视移动,http://39.165.35.152:9901/tsfile/live/1144_1.m3u8?key=txiptv&url=tvzb.com
+云南卫视移动,http://39.165.35.152:9901/tsfile/live/1145_1.m3u8?key=txiptv&url=tvzb.com
+重庆卫视移动,http://39.165.35.152:9901/tsfile/live/1146_1.m3u8?key=txiptv&url=tvzb.com
+吉林卫视移动,http://39.165.35.152:9901/tsfile/live/1147_1.m3u8?key=txiptv&url=tvzb.com
+宁夏卫视移动,http://39.165.35.152:9901/tsfile/live/1148_1.m3u8?key=txiptv&url=tvzb.com
+东南卫视移动,http://39.165.35.152:9901/tsfile/live/1149_1.m3u8?key=txiptv&url=tvzb.com
+内蒙古卫视移动,http://39.165.35.152:9901/tsfile/live/1150_1.m3u8?key=txiptv&url=tvzb.com
+广西卫视移动,http://39.165.35.152:9901/tsfile/live/1151_1.m3u8?key=txiptv&url=tvzb.com
+山西卫视移动,http://39.165.35.152:9901/tsfile/live/1152_1.m3u8?key=txiptv&url=tvzb.com
+海南卫视移动,http://39.165.35.152:9901/tsfile/live/1153_1.m3u8?key=txiptv&url=tvzb.com
+甘肃卫视移动,http://39.165.35.152:9901/tsfile/live/1154_1.m3u8?key=txiptv&url=tvzb.com
+青海卫视移动,http://39.165.35.152:9901/tsfile/live/1155_1.m3u8?key=txiptv&url=tvzb.com
+金鹰卡通移动,http://39.165.35.152:9901/tsfile/live/1156_1.m3u8?key=txiptv&url=tvzb.com
+嘉佳卡通移动,http://39.165.35.152:9901/tsfile/live/1157_1.m3u8?key=txiptv&url=tvzb.com
+卡酷动画移动,http://39.165.35.152:9901/tsfile/live/1158_1.m3u8?key=txiptv&url=tvzb.com
+炫动卡通移动,http://39.165.35.152:9901/tsfile/live/1159_1.m3u8?key=txiptv&url=tvzb.com
+新疆卫视移动,http://39.165.35.152:9901/tsfile/live/1160_1.m3u8?key=txiptv&url=tvzb.com
+西藏卫视移动,http://39.165.35.152:9901/tsfile/live/1091_1.m3u8?key=txiptv&url=tvzb.com
+优漫卡通移动,http://39.165.35.152:9901/tsfile/live/1092_1.m3u8?key=txiptv&url=tvzb.com
+平顶山新闻移动,http://39.165.35.152:9901/tsfile/live/1075_1.m3u8?key=txiptv&url=tvzb.com
+平顶山城市移动,http://39.165.35.152:9901/tsfile/live/1076_1.m3u8?key=txiptv&url=tvzb.com
+平顶山公共移动,http://39.165.35.152:9901/tsfile/live/1161_1.m3u8?key=txiptv&url=tvzb.com
+欢笑剧场移动,http://39.165.35.152:9901/tsfile/live/1015_1.m3u8?key=txiptv&url=tvzb.com
+七彩戏剧移动,http://39.165.35.152:9901/tsfile/live/1016_1.m3u8?key=txiptv&url=tvzb.com
+舞钢一套移动,http://39.165.35.152:9901/tsfile/live/1078_1.m3u8?key=txiptv&url=tvzb.com
+先锋乒羽移动,http://39.165.35.152:9901/tsfile/live/1173_1.m3u8?key=txiptv&url=tvzb.com
+金鹰纪实移动,http://39.165.35.152:9901/tsfile/live/1083_1.m3u8?key=txiptv&url=tvzb.com
+全纪实移动,http://39.165.35.152:9901/tsfile/live/1164_1.m3u8?key=txiptv&url=tvzb.com
+体育赛事移动,http://39.165.35.152:9901/tsfile/live/1168_1.m3u8?key=txiptv&url=tvzb.com
+中华特产移动,http://39.165.35.152:9901/tsfile/live/1171_1.m3u8?key=txiptv&url=tvzb.com
+大象新闻移动,http://39.165.35.152:9901/tsfile/live/1172_1.m3u8?key=txiptv&url=tvzb.com
+极速汽车移动,http://39.165.35.152:9901/tsfile/live/1166_1.m3u8?key=txiptv&url=tvzb.com
+动漫秀场移动,http://39.165.35.152:9901/tsfile/live/1174_1.m3u8?key=txiptv&url=tvzb.com
+游戏风云移动,http://39.165.35.152:9901/tsfile/live/1165_1.m3u8?key=txiptv&url=tvzb.com
+陶瓷移动,http://39.165.35.152:9901/tsfile/live/1080_1.m3u8?key=txiptv&url=tvzb.com
+家庭理财移动,http://39.165.35.152:9901/tsfile/live/1079_1.m3u8?key=txiptv&url=tvzb.com
+环球旅游移动,http://39.165.35.152:9901/tsfile/live/1170_1.m3u8?key=txiptv&url=tvzb.com
+茶移动,http://39.165.35.152:9901/tsfile/live/1107_1.m3u8?key=txiptv&url=tvzb.com
+财富天下移动,http://39.165.35.152:9901/tsfile/live/1169_1.m3u8?key=txiptv&url=tvzb.com
+车迷移动,http://39.165.35.152:9901/tsfile/live/1082_1.m3u8?key=txiptv&url=tvzb.com
+都市剧场移动,http://39.165.35.152:9901/tsfile/live/1095_1.m3u8?key=txiptv&url=tvzb.com
+快乐垂钓移动,http://39.165.35.152:9901/tsfile/live/1096_1.m3u8?key=txiptv&url=tvzb.com
+金色频道移动,http://39.165.35.152:9901/tsfile/live/1044_1.m3u8?key=txiptv&url=tvzb.com
+书画移动,http://39.165.35.152:9901/tsfile/live/1081_1.m3u8?key=txiptv&url=tvzb.com
+法治天地移动,http://39.165.35.152:9901/tsfile/live/1175_1.m3u8?key=txiptv&url=tvzb.com
+生活时尚移动,http://39.165.35.152:9901/tsfile/live/1167_1.m3u8?key=txiptv&url=tvzb.com
+郏县一套移动,http://39.165.35.152:9901/tsfile/live/1077_1.m3u8?key=txiptv&url=tvzb.com
+
 
 阜阳电信,#genre#
 CCTV1HD,http://220.178.106.163:1000/rtp/238.1.78.166:7200
