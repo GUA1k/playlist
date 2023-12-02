@@ -492,7 +492,7 @@ TVB星河频道,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB泰国台,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
 TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 
-电影,#genre#
+滇西小哥,#genre#
 李子柒,http://epg.112114.xyz/douyu/2901080
 滇西小哥,http://epg.112114.xyz/douyu/3243427
 高清电影,http://183.94.40.49:9901/tsfile/live/1014_1.m3u8?key=txiptv&url=tvzb.com
