@@ -73,6 +73,26 @@ http://192.168.100.209:5678/henan.php?id=ydxj
 http://192.168.100.209:5678/henan.php?id=wwbk
 #EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="卫视",武术世界
 http://192.168.100.209:5678/henan.php?id=wspd
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://192.168.100.209:5678/beifang.php?id=058
+#EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png" group-title="辽宁",辽宁都市
+http://192.168.100.209:5678/beifang.php?id=610
+#EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://epg.112114.xyz/logo/辽宁北方.png" group-title="辽宁",辽宁北方
+http://192.168.100.209:5678/beifang.php?id=071
+#EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://epg.112114.xyz/logo/辽宁生活.png" group-title="辽宁",辽宁生活
+http://192.168.100.209:5678/beifang.php?id=073
+#EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁",辽宁体育
+http://192.168.100.209:5678/beifang.php?id=611
+#EXTINF:-1,tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://epg.112114.xyz/logo/辽宁影视剧.png" group-title="辽宁",辽宁影视剧
+http://192.168.100.209:5678/beifang.php?id=070
+#EXTINF:-1,tvg-id="辽宁教育青少高清" tvg-name="辽宁教育青少高清" tvg-logo="https://epg.112114.xyz/logo/辽宁教育青少.png" group-title="辽宁",辽宁教育青少
+http://192.168.100.209:5678/beifang.php?id=075
+#EXTINF:-1,tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://epg.112114.xyz/logo/辽宁经济.png" group-title="辽宁",辽宁经济
+http://192.168.100.209:5678/beifang.php?id=076
+#EXTINF:-1,tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://epg.112114.xyz/logo/辽宁公共.png" group-title="辽宁",辽宁公共
+http://192.168.100.209:5678/beifang.php?id=077
+#EXTINF:-1,tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://epg.112114.xyz/logo/辽宁经济.png" group-title="辽宁",辽宁经济
+http://192.168.100.209:5678/beifang.php?id=480
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.100.209:5678/beifang.php?id=085
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
