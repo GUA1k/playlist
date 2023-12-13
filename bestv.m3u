@@ -179,8 +179,10 @@ http://192.168.100.209:35455/douyu/2901080
 http://192.168.100.209:35455/douyu/3243427
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
 http://192.168.100.209:35455/douyu/4332
-#EXTINF:-1  group-title="影视",1905电影
-http://192.168.100.209:5678/1905.php?id=1905dy
+#EXTINF:-1  group-title="影视",1905国外电影
+http://192.168.100.209:5678/1905dy.php?id=1905a
+#EXTINF:-1  group-title="影视",1905国内电影
+http://192.168.100.209:5678/1905dy.php?id=1905b
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="影视", 周星驰
 http://192.168.100.209:35455/huya/11342412
 #EXTINF:-1  group-title="影视",王晶作品
