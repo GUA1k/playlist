@@ -413,11 +413,6 @@ CETV4,http://220.178.106.163:1000/rtp/238.1.78.107:6728
 阜阳都市,http://220.178.106.163:1000/udp/238.1.78.127:6888
 
 江苏电信,#genre#
-========================================================
-列表获取成功！仅做参考！
-IP地域：广东省深圳市 移动
-更多直播源请移步：www.tvzb.com
-========================================================
 CCTV1综合-高清,http://183.237.231.139:9901/tsfile/live/1001_1.m3u8?key=txiptv&url=tvzb.com
 CCTV2财经-高清,http://183.237.231.139:9901/tsfile/live/1002_1.m3u8?key=txiptv&url=tvzb.com
 CCTV3综艺-高清,http://183.237.231.139:9901/tsfile/live/1003_1.m3u8?key=txiptv&url=tvzb.com
@@ -521,8 +516,6 @@ IPTV相声小品,http://183.237.231.139:9901/tsfile/live/1055_1.m3u8?key=txiptv&
 央视精品-高清,http://183.237.231.139:9901/tsfile/live/1102_1.m3u8?key=txiptv&url=tvzb.com
 第一剧场-高清,http://183.237.231.139:9901/tsfile/live/1103_1.m3u8?key=txiptv&url=tvzb.com
 风云音乐-高清,http://183.237.231.139:9901/tsfile/live/1105_1.m3u8?key=txiptv&url=tvzb.com
-
-
 
 滇西小哥,#genre#
 李子柒,http://epg.112114.xyz/douyu/2901080
