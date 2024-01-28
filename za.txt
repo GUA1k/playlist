@@ -61,55 +61,103 @@ CCTV15-音乐,http://115.231.200.110:9901/tsfile/live/0015_1.m3u8?key=txiptv&pla
 
 
 合肥电信,#genre#
-CCTV1,http://36.33.240.48:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
-CCTV2,http://36.33.240.48:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
-CCTV3,http://36.33.240.48:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
-CCTV4,http://36.33.240.48:9901/tsfile/live/0004_1.m3u8?key=txiptv&url=tvzb.com
-CCTV5,http://36.33.240.48:9901/tsfile/live/0005_1.m3u8?key=txiptv&url=tvzb.com
-CCTV5P,http://36.33.240.48:9901/tsfile/live/0016_1.m3u8?key=txiptv&url=tvzb.com
-CCTV6,http://36.33.240.48:9901/tsfile/live/0006_1.m3u8?key=txiptv&url=tvzb.com
-CCTV7,http://36.33.240.48:9901/tsfile/live/0007_1.m3u8?key=txiptv&url=tvzb.com
-CCTV8,http://36.33.240.48:9901/tsfile/live/0008_1.m3u8?key=txiptv&url=tvzb.com
-CCTV9,http://36.33.240.48:9901/tsfile/live/0009_1.m3u8?key=txiptv&url=tvzb.com
-CCTV10,http://36.33.240.48:9901/tsfile/live/0010_1.m3u8?key=txiptv&url=tvzb.com
-CCTV11,http://36.33.240.48:9901/tsfile/live/0011_1.m3u8?key=txiptv&url=tvzb.com
-CCTV12,http://36.33.240.48:9901/tsfile/live/0012_1.m3u8?key=txiptv&url=tvzb.com
-CCTV13,http://36.33.240.48:9901/tsfile/live/0013_1.m3u8?key=txiptv&url=tvzb.com
-CCTV14,http://36.33.240.48:9901/tsfile/live/0014_1.m3u8?key=txiptv&url=tvzb.com
-CCTV15,http://36.33.240.48:9901/tsfile/live/0015_1.m3u8?key=txiptv&url=tvzb.com
-江苏卫视,http://36.33.240.48:9901/tsfile/live/0127_1.m3u8?key=txiptv&url=tvzb.com
-河北卫视,http://36.33.240.48:9901/tsfile/live/0117_1.m3u8?key=txiptv&url=tvzb.com
-浙江卫视,http://36.33.240.48:9901/tsfile/live/0124_1.m3u8?key=txiptv&url=tvzb.com
-深圳卫视,http://36.33.240.48:9901/tsfile/live/0126_1.m3u8?key=txiptv&url=tvzb.com
-湖北卫视,http://36.33.240.48:9901/tsfile/live/0132_1.m3u8?key=txiptv&url=tvzb.com
-湖南卫视,http://36.33.240.48:9901/tsfile/live/0128_1.m3u8?key=txiptv&url=tvzb.com
-东方卫视,http://36.33.240.48:9901/tsfile/live/0107_1.m3u8?key=txiptv&url=tvzb.com
-北京卫视,http://36.33.240.48:9901/tsfile/live/0122_1.m3u8?key=txiptv&url=tvzb.com
-天津卫视,http://36.33.240.48:9901/tsfile/live/0135_1.m3u8?key=txiptv&url=tvzb.com
-安徽卫视,http://36.33.240.48:9901/tsfile/live/0130_1.m3u8?key=txiptv&url=tvzb.com
-山东卫视,http://36.33.240.48:9901/tsfile/live/0131_1.m3u8?key=txiptv&url=tvzb.com
-广东卫视,http://36.33.240.48:9901/tsfile/live/0125_1.m3u8?key=txiptv&url=tvzb.com
-贵州卫视,http://36.33.240.48:9901/tsfile/live/0120_1.m3u8?key=txiptv&url=tvzb.com
-辽宁卫视,http://36.33.240.48:9901/tsfile/live/0121_1.m3u8?key=txiptv&url=tvzb.com
-黑龙江卫视,http://36.33.240.48:9901/tsfile/live/0143_1.m3u8?key=txiptv&url=tvzb.com
-重庆卫视,http://36.33.240.48:9901/tsfile/live/0142_1.m3u8?key=txiptv&url=tvzb.com
-河南卫视,http://36.33.240.48:9901/tsfile/live/0139_1.m3u8?key=txiptv&url=tvzb.com
-江西卫视,http://36.33.240.48:9901/tsfile/live/0138_1.m3u8?key=txiptv&url=tvzb.com
-甘肃卫视,http://36.33.240.48:9901/tsfile/live/0141_1.m3u8?key=txiptv&url=tvzb.com
-新疆卫视,http://36.33.240.48:9901/tsfile/live/0110_1.m3u8?key=txiptv&url=tvzb.com
-旅游卫视,http://36.33.240.48:9901/tsfile/live/0114_1.m3u8?key=txiptv&url=tvzb.com
-广西卫视,http://36.33.240.48:9901/tsfile/live/0113_1.m3u8?key=txiptv&url=tvzb.com
-山西卫视,http://36.33.240.48:9901/tsfile/live/0118_1.m3u8?key=txiptv&url=tvzb.com
-宁夏卫视,http://36.33.240.48:9901/tsfile/live/0112_1.m3u8?key=txiptv&url=tvzb.com
-四川卫视,http://36.33.240.48:9901/tsfile/live/0123_1.m3u8?key=txiptv&url=tvzb.com
-吉林卫视,http://36.33.240.48:9901/tsfile/live/0116_1.m3u8?key=txiptv&url=tvzb.com
-内蒙古卫视,http://36.33.240.48:9901/tsfile/live/0109_1.m3u8?key=txiptv&url=tvzb.com
-云南卫视,http://36.33.240.48:9901/tsfile/live/0119_1.m3u8?key=txiptv&url=tvzb.com
-东南卫视,http://36.33.240.48:9901/tsfile/live/0137_1.m3u8?key=txiptv&url=tvzb.com
-兵团卫视,http://36.33.240.48:9901/tsfile/live/0115_1.m3u8?key=txiptv&url=tvzb.com
-厦门卫视,http://36.33.240.48:9901/tsfile/live/0129_1.m3u8?key=txiptv&url=tvzb.com
-西藏卫视,http://36.33.240.48:9901/tsfile/live/0111_1.m3u8?key=txiptv&url=tvzb.com
-陕西卫视,http://36.33.240.48:9901/tsfile/live/0136_1.m3u8?key=txiptv&url=tvzb.com
+超高清电影4K,https://ntnas.top/sxg.php?id=emdy4k_8000
+CCTV-4K超清,https://ntnas.top/sxg.php?id=ys4Kcq_2000
+CCTV-1 综合,https://ntnas.top/sxg.php?id=CCTV-1H265_4000
+CCTV-2 财经,https://ntnas.top/sxg.php?id=CCTV-2H265_4000
+CCTV-3 综艺,https://ntnas.top/sxg.php?id=CCTV-3H265_4000
+CCTV-4 国际,https://ntnas.top/sxg.php?id=CCTV-4H265_4000
+CCTV-5 体育,https://ntnas.top/sxg.php?id=CCTV-5H265_4000
+CCTV-5+赛事,https://ntnas.top/sxg.php?id=CCTV-5plusH265_4000
+CCTV-6 电影,https://ntnas.top/sxg.php?id=CCTV-6H265_4000
+CCTV-7 国防,https://ntnas.top/sxg.php?id=CCTV-7H265_4000
+CCTV-8 电视,https://ntnas.top/sxg.php?id=CCTV-8H265_4000
+CCTV-9 纪录,https://ntnas.top/sxg.php?id=CCTV-9H265_4000
+CCTV-10 科教,https://ntnas.top/sxg.php?id=CCTV-10H265_4000
+CCTV-11 戏曲,https://ntnas.top/sxg.php?id=CCTV-11-H265_4000
+CCTV-12 社会,https://ntnas.top/sxg.php?id=CCTV-12H265_4000
+CCTV-13 新闻,https://ntnas.top/sxg.php?id=CCTV-xw_4000
+CCTV-14 少儿,https://ntnas.top/sxg.php?id=CCTV-14H265_4000
+CCTV-15 音乐,https://ntnas.top/sxg.php?id=CCTV-15-yyH265_4000
+CCTV-16 奥匹,https://ntnas.top/sxg.php?id=CCTV-16_4000
+CCTV-16 奥匹4K,https://ntnas.top/sxg.php?id=CCTV-16-4K_8000
+CCTV-17 农村,https://ntnas.top/sxg.php?id=CCTV-17_4000
+CGTN-俄语,https://ntnas.top/sxg.php?id=ey_2000
+CGTN-法语,https://ntnas.top/sxg.php?id=fy_2000
+CGTN-西语,https://ntnas.top/sxg.php?id=xbyy_2000
+CGTN-英语,https://ntnas.top/sxg.php?id=CGTN_4000
+四川卫视,https://ntnas.top/sxg.php?id=scwsH265_4000
+重庆卫视,https://ntnas.top/sxg.php?id=cqwsH265_4000
+凤凰中文,https://ntnas.top/sxg.php?id=test1_4000
+凤凰资讯,https://ntnas.top/sxg.php?id=test2_4000
+安徽卫视,https://ntnas.top/sxg.php?id=ahwsH265_4000
+北京卫视,https://ntnas.top/sxg.php?id=bjwsH265_4000
+兵团卫视,https://ntnas.top/sxg.php?id=btws_4000
+东方卫视,https://ntnas.top/sxg.php?id=dfwsH265_4000
+东南卫视,https://ntnas.top/sxg.php?id=dnwsfjwsH265_4000
+甘肃卫视,https://ntnas.top/sxg.php?id=gsws_4000
+广东卫视,https://ntnas.top/sxg.php?id=gdwsH265_4000
+广西卫视,https://ntnas.top/sxg.php?id=gxws_4000
+贵州卫视,https://ntnas.top/sxg.php?id=gzwsH265_4000
+海南卫视,https://ntnas.top/sxg.php?id=hnws_4000
+河南卫视,https://ntnas.top/sxg.php?id=hnws35_4000
+湖北卫视,https://ntnas.top/sxg.php?id=hbwsH265_4000
+湖南卫视,https://ntnas.top/sxg.php?id=hnwsH265_4000
+吉林卫视,https://ntnas.top/sxg.php?id=jlwsH265_4000
+江苏卫视,https://ntnas.top/sxg.php?id=jswsH265_4000
+江西卫视,https://ntnas.top/sxg.php?id=jxwsH265_4000
+康巴卫视,https://ntnas.top/sxg.php?id=kbwsH264_2000
+辽宁卫视,https://ntnas.top/sxg.php?id=lnwsHDH264_4000
+山东卫视,https://ntnas.top/sxg.php?id=sdwsH265_4000
+山西卫视,https://ntnas.top/sxg.php?id=sxws42_4000
+陕西卫视,https://ntnas.top/sxg.php?id=sxws_4000
+深圳卫视,https://ntnas.top/sxg.php?id=szwsH265_4000
+天津卫视,https://ntnas.top/sxg.php?id=tjwsH265_4000
+西藏卫视,https://ntnas.top/sxg.php?id=xzwsH264_2000
+云南卫视,https://ntnas.top/sxg.php?id=ynws_4000
+浙江卫视,https://ntnas.top/sxg.php?id=zjwsH265_4000
+内蒙古卫视,https://ntnas.top/sxg.php?id=nmgws_4000
+黑龙江卫视,https://ntnas.top/sxg.php?id=hljwsH265_4000
+山东教育卫视,https://ntnas.top/sxg.php?id=sdjy_4000
+CETV-1,https://ntnas.top/sxg.php?id=CETV-1H264_4000
+CETV-4,https://ntnas.top/sxg.php?id=CETV-4H264_2000
+CBN风尚生活,https://ntnas.top/sxg.php?id=fssh_4000
+CBN每日影院,https://ntnas.top/sxg.php?id=mryy_4000
+CBN幸福剧场,https://ntnas.top/sxg.php?id=xfjc_4000
+CBN幸福娱乐,https://ntnas.top/sxg.php?id=xfyl_4000
+CHC动作电影,https://ntnas.top/sxg.php?id=wqCHCdzdyH265_4000
+CHC高清电影,https://ntnas.top/sxg.php?id=lnwsCHC-HDH265_4000
+CHC家庭影院,https://ntnas.top/sxg.php?id=jbtygqCHCjtyyH265_4000
+欢笑剧场-4K,https://ntnas.top/sxg.php?id=hxjc-4k_8000
+中央新影-老故事,https://ntnas.top/sxg.php?id=lgs_2000
+中央新影-中学生,https://ntnas.top/sxg.php?id=zxs_4000
+中央新影-发现之旅,https://ntnas.top/sxg.php?id=fxzl_2000
+动漫秀场,https://ntnas.top/sxg.php?id=yybb-dmxc-H265_4000
+都市剧场,https://ntnas.top/sxg.php?id=yxfydsjcHDH265_4000
+法治天地,https://ntnas.top/sxg.php?id=fztx_4000
+极速汽车,https://ntnas.top/sxg.php?id=jsqcH265_4000
+纪实科教,https://ntnas.top/sxg.php?id=bjjs_2000
+嘉佳卡通,https://ntnas.top/sxg.php?id=jjkt_2000
+家庭理财,https://ntnas.top/sxg.php?id=jtlc_4000
+金鹰纪实,https://ntnas.top/sxg.php?id=jyjsHDH265_4000
+金鹰卡通,https://ntnas.top/sxg.php?id=jykt_2000
+劲爆体育,https://ntnas.top/sxg.php?id=lqhxjcHDH265_4000
+聚鲨环球,https://ntnas.top/sxg.php?id=jshqjxHD_4000
+卡酷少儿,https://ntnas.top/sxg.php?id=kkkt_4000
+快乐垂钓,https://ntnas.top/sxg.php?id=fyzqklcdHDH265_4000
+长风乐游,https://ntnas.top/sxg.php?id=qjs-HDH265_4000
+梨园频道,https://ntnas.top/sxg.php?id=ly_4000
+魅力足球,https://ntnas.top/sxg.php?id=mlyy_4000
+七彩戏剧,https://ntnas.top/sxg.php?id=qcxj_2000
+摄影频道,https://ntnas.top/sxg.php?id=sy_4000
+生活时尚,https://ntnas.top/sxg.php?id=shssH265_4000
+四海钓鱼,https://ntnas.top/sxg.php?id=shdy_4000
+天元围棋,https://ntnas.top/sxg.php?id=tywq_2000
+武术世界,https://ntnas.top/sxg.php?id=wssj_4000
+先锋乒羽,https://ntnas.top/sxg.php?id=xfpy_4000
+新视觉*,https://ntnas.top/sxg.php?id=ycxsjH265_4000
+证劵服务,https://ntnas.top/sxg.php?id=jz_2000
+中国天气,https://ntnas.top/sxg.php?id=zgqx_4000
 
 云南电信,#genre#
 CCTV1,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8?=TG
