@@ -141,8 +141,8 @@ http://114.97.214.158:8888/udp/238.1.78.126:6880
 http://114.97.214.158:8888/udp/238.1.78.125:6872
 #EXTINF:-1,tvg-id="阜阳都市文艺" tvg-name="阜阳都市文艺" tvg-logo="https://epg.112114.xyz/logo/阜阳都市文艺.png" group-title="卫视",阜阳都市文艺
 http://114.97.214.158:8888/udp/238.1.78.127:6888
-#EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",李子柒 4K
-http://192.168.100.209:35455/douyu/2901080
+#EXTINF:-1 tvg-logo="https://tva1.sinaimg.cn/crop.0.0.750.750.180/b10d83d8jw8f53xpxjlhaj20ku0kut9k.jpg?KID=imgbed,tva&Expires=1675936236&ssig=Od2BUIROJE" group-title="影视",8K测试
+http://112.17.52.85/PLTV/88888888/224/3221235532/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
 http://192.168.100.209:35455/douyu/3243427
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
