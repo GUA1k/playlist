@@ -5,6 +5,14 @@ CCTV1,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7
 CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/0af5e4ebbf-0-0-73acd2813c45f8d650460bda2f73cdf0/index.m3u8
+CCTV4K-HLG-36Mbps-25FPS-[帧率阉割],http://1.14.131.61:5828/cctv4k.php
+CCTV4K-HLG-36Mbps-50FPS-GuDou满血,http://1.14.131.61:5678/gd4k.php
+CCTV4K-HLG-36Mbps-50FPS-移动满血,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+CCTV4K-HLG-36Mbps-50FPS-满血臻彩视听,http://1.14.131.61:8765/av3a4k50fps.php
+CCTV8K-HLG-50FPS-AV3A-臻彩视听,http://1.14.131.61:8654/av3a8k50fps.php
+移动8K-1-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
+移动8K-2-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
+移动8K-3-150Mbps-50FPS-HLG-AVS3,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
 
 咪咕视频,#genre#
 CCTV1-综合,http://115.231.200.110:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
