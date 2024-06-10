@@ -163,6 +163,8 @@ http://60.167.114.168:4200/udp/238.1.78.125:6872
 http://60.167.114.168:4200/udp/238.1.78.127:6888
 #EXTINF:-1  group-title="影视",快乐向前冲
 http://192.168.100.209:35455/douyin/385925606236
+#EXTINF:-1  group-title="影视",快乐向前冲
+http://192.168.100.209:35455/douyin/575144254842
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
 http://192.168.100.209:35455/douyu/3243427
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
