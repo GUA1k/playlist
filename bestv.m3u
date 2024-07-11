@@ -1156,4 +1156,11 @@ http://192.168.100.209:35455/huya/11352935
 http://192.168.100.209:35455/huya/11342390
 #EXTINF:-1  group-title="影视",沈腾
 http://192.168.100.209:35455/huya/11601968
-
+#EXTINF:-1  group-title="影视",安徽阜阳教育
+http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
+#EXTINF:-1  group-title="影视",安徽阜阳生活
+http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
+#EXTINF:-1  group-title="影视",安徽阜阳都市文艺
+http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
+#EXTINF:-1  group-title="影视",安徽阜阳新闻综合
+https://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2851.m3u8?auth_key=1720778768-0-0-c3bdf4d1872ba93687e504fba482cc3b&extra_key=z8b5xz7w8LsO8TjciPJjjHbHrVKSTCL7Me_pGG5lwY5PkNqMctn_EYLK4-mU2_2Bfn5k_rrMaMKfOk9B24D7v0mRCVlUncoTKJOVG_GCcDS9QaU22_vy3maIwyvWDHCnjMGHLUCDnSBBT9BzPkdnmw
