@@ -688,124 +688,6 @@ http://192.168.100.209:5216/tptv/pzzongyi?type=proxy
 http://192.168.100.209:5216/tptv/HD-2500k-1080P-ganyutv?type=proxy
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏仪化电视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="江苏移动", 江苏仪化电视
 http://192.168.100.209:5216/tptv/HD-4000k-1080P-jsyihua?type=proxy
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="四川电信", CCTV 1
-http://192.168.100.209:5216/sxg/CCTV-1H265
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="四川电信", CCTV 2
-http://192.168.100.209:5216/sxg/CCTV-2H265
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="四川电信", CCTV 3
-http://192.168.100.209:5216/sxg/CCTV-3H265
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="四川电信", CCTV 4
-http://192.168.100.209:5216/sxg/CCTV-4H265
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="四川电信", CCTV 5
-http://192.168.100.209:5216/sxg/CCTV-5H265
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="四川电信", CCTV 5+
-http://192.168.100.209:5216/sxg/CCTV-5plusH265
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="四川电信", CCTV 6
-http://192.168.100.209:5216/sxg/CCTV-6H265
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV 7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="四川电信", CCTV 7
-http://192.168.100.209:5216/sxg/CCTV-7H265
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="四川电信", CCTV 8
-http://192.168.100.209:5216/sxg/CCTV-8H265
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV 9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="四川电信", CCTV 9
-http://192.168.100.209:5216/sxg/CCTV-9H265
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="四川电信", CCTV 10
-http://192.168.100.209:5216/sxg/CCTV-10H265
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="四川电信", CCTV 11
-http://192.168.100.209:5216/sxg/CCTV-11-H265
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="四川电信", CCTV 12
-http://192.168.100.209:5216/sxg/CCTV-12H265
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="四川电信", CCTV 13
-http://192.168.100.209:5216/sxg/CCTV-xw
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="四川电信", CCTV 14
-http://192.168.100.209:5216/sxg/CCTV-14H265
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="四川电信", CCTV 15
-http://192.168.100.209:5216/sxg/CCTV-15-yyH265
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="四川电信", CCTV 16
-http://192.168.100.209:5216/sxg/CCTV-16
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16 4K" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="四川电信", CCTV 16 4K
-http://192.168.100.209:5216/sxg/CCTV-16-4K
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="四川电信", CCTV 17
-http://192.168.100.209:5216/sxg/CCTV-17
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="四川电信", CCTV 4K
-http://192.168.100.209:5216/sxg/ys4Kcq
-#EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="CETV-1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="四川电信", CETV-1
-http://192.168.100.209:5216/sxg/CETV-1H264
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" group-title=四川电信", 安徽卫视
-http://192.168.100.209:5216/sxg/ahwsH265
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title=四川电信", 北京卫视
-http://192.168.100.209:5216/sxg/bjwsH265
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://assets.livednow.com/logo/重庆卫视.png" group-title=四川电信", 重庆卫视
-http://192.168.100.209:5216/sxg/cqwsH265
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title=四川电信", 东方卫视
-http://192.168.100.209:5216/sxg/dfwsH265
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://assets.livednow.com/logo/东南卫视.png" group-title=四川电信", 东南卫视
-http://192.168.100.209:5216/sxg/dnwsfjwsH265
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" group-title=四川电信", 甘肃卫视
-http://192.168.100.209:5216/sxg/gsws
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title=四川电信", 广东卫视
-http://192.168.100.209:5216/sxg/gdwsH265
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://assets.livednow.com/logo/贵州卫视.png" group-title=四川电信", 贵州卫视
-http://192.168.100.209:5216/sxg/gzwsH265
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" group-title=四川电信", 河南卫视
-http://192.168.100.209:5216/sxg/hnws35
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://assets.livednow.com/logo/黑龙江卫视.png" group-title=四川电信", 黑龙江卫视
-http://192.168.100.209:5216/sxg/hljwsH265
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title=四川电信", 湖北卫视
-http://192.168.100.209:5216/sxg/hbwsH265
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title=四川电信", 湖南卫视
-http://192.168.100.209:5216/sxg/hnwsH265
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" group-title=四川电信", 吉林卫视
-http://192.168.100.209:5216/sxg/jlwsH265
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title=四川电信", 江苏卫视
-http://192.168.100.209:5216/sxg/jswsH265
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title=四川电信", 江西卫视
-http://192.168.100.209:5216/sxg/jxwsH265
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://assets.livednow.com/logo/辽宁卫视.png" group-title=四川电信", 辽宁卫视
-http://192.168.100.209:5216/sxg/lnwsHDH264
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://assets.livednow.com/logo/山东卫视.png" group-title=四川电信", 山东卫视
-http://192.168.100.209:5216/sxg/sdwsH265
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title=四川电信", 陕西卫视
-http://192.168.100.209:5216/sxg/sxws
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title=四川电信", 深圳卫视
-http://192.168.100.209:5216/sxg/szwsH265
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://assets.livednow.com/logo/四川卫视.png" group-title=四川电信", 四川卫视
-http://192.168.100.209:5216/sxg/scwsH265
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://assets.livednow.com/logo/天津卫视.png" group-title=四川电信", 天津卫视
-http://192.168.100.209:5216/sxg/tjwsH265
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://assets.livednow.com/logo/云南卫视.png" group-title=四川电信", 云南卫视
-http://192.168.100.209:5216/sxg/ynws
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title=四川电信", 浙江卫视
-http://192.168.100.209:5216/sxg/zjwsH265
-#EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://assets.livednow.com/logo/湖南金鹰纪实.png" group-title=四川电信", 湖南金鹰纪实
-http://192.168.100.209:5216/sxg/jyjsHDH265
-#EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://assets.livednow.com/logo/湖南金鹰卡通.png" group-title=四川电信", 湖南金鹰卡通
-http://192.168.100.209:5216/sxg/jykt
-#EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://assets.livednow.com/logo/湖南快乐垂钓.png" group-title=四川电信", 湖南快乐垂钓
-http://192.168.100.209:5216/sxg/fyzqklcdHDH265
-#EXTINF:-1 tvg-id="CHC-动作电影" tvg-name="CHC 动作电影" tvg-logo="https://assets.livednow.com/logo/CHC-动作电影.png" group-title=四川电信", CHC 动作电影
-http://192.168.100.209:5216/sxg/wqCHCdzdyH265
-#EXTINF:-1 tvg-id="CHC-高清电影" tvg-name="CHC 高清电影" tvg-logo="https://assets.livednow.com/logo/CHC-高清电影.png" group-title=四川电信", CHC 高清电影
-http://192.168.100.209:5216/sxg/lnwsCHC-HDH265
-#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" group-title=四川电信", CHC 家庭影院
-http://192.168.100.209:5216/sxg/jbtygqCHCjtyyH265
-#EXTINF:-1 tvg-id="欢笑剧场-4K" tvg-name="SiTV 欢笑剧场 4K" tvg-logo="https://assets.livednow.com/logo/欢笑剧场-4K.png" group-title=四川电信", SiTV 欢笑剧场 4K
-http://192.168.100.209:5216/sxg/hxjc-4k
-#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" group-title=四川电信", SiTV 劲爆体育
-http://192.168.100.209:5216/sxg/lqhxjcHDH265
-#EXTINF:-1 tvg-id="SiTV-动漫秀场" tvg-name="SiTV 动漫秀场" tvg-logo="https://assets.livednow.com/logo/SiTV-动漫秀场.png" group-title=四川电信", SiTV 动漫秀场
-http://192.168.100.209:5216/sxg/yybb-dmxc-H265
-#EXTINF:-1 tvg-id="SiTV-都市剧场" tvg-name="SiTV 都市剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title=四川电信", SiTV 都市剧场
-http://192.168.100.209:5216/sxg/yxfydsjcHDH265
-#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title=四川电信", SiTV 法治天地
-http://192.168.100.209:5216/sxg/fztx
-#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://assets.livednow.com/logo/SiTV-乐游.png" group-title=四川电信", SiTV 乐游
-http://192.168.100.209:5216/sxg/qjs-HDH265
-#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title=四川电信", SiTV 魅力足球
-http://192.168.100.209:5216/sxg/mlyy
-#EXTINF:-1 tvg-id="SiTV-生活时尚" tvg-name="SiTV 生活时尚" tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" group-title=四川电信", SiTV 生活时尚
-http://192.168.100.209:5216/sxg/shssH265
-#EXTINF:-1 tvg-id="SiTV-新视觉" tvg-name="SiTV 新视觉" tvg-logo="https://assets.livednow.com/logo/SiTV-新视觉.png" group-title=四川电信", SiTV 新视觉
-http://192.168.100.209:5216/sxg/ycxsjH265
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="港澳台", 民視
 http://192.168.100.209:5216/litv/4gtv-4gtv155
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="港澳台", 民視第一台
@@ -1080,14 +962,10 @@ http://192.168.100.209:5216/4gtv/209
 http://192.168.100.209:5216/4gtv/230
 #EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://assets.livednow.com/logo/人間衛視.png" group-title="港澳台", 人間衛視
 http://192.168.100.209:5216/4gtv/210
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://assets.livednow.com/logo/上海五星体育.png" group-title="体育", 上海五星体育
-http://192.168.100.209:5216/itv/bestzb/5000000010000017540
-#EXTINF:-1 tvg-id="中国移动-劲爆体育" tvg-name="中国移动 劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" group-title="体育", SiTV 劲爆体育
-http://192.168.100.209:5216/itv/bestzb/5000000002000029972
-#EXTINF:-1 tvg-id="SiTV-新视觉" tvg-name="SiTV 新视觉" tvg-logo="https://assets.livednow.com/logo/SiTV-新视觉.png" group-title="体育", SiTV 新视觉
-http://192.168.100.209:5216/sxg/ycxsjH265
-#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="体育", SiTV 魅力足球
-http://192.168.100.209:5216/sxg/mlyy
+#EXTINF:-1  group-title="体育",抖音体育
+http://192.168.100.209:35455/douyin/385925606236
+#EXTINF:-1  group-title="体育",抖音奥运
+http://192.168.100.209:35455/douyin/385925606236
 #EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="体育", NBA TV
 http://192.168.100.209:5216/beesport/NBA_TV_Live_TV
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://assets.livednow.com/logo/WWE.png" group-title="体育", WWE
@@ -1132,9 +1010,9 @@ http://192.168.100.209:5216/beesport/La_Liga_TV_Live_TV
 http://192.168.100.209:5216/beesport/HBO_Live_TV
 #EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO 2" tvg-logo="https://assets.livednow.com/logo/HBO-2.png" group-title="体育", HBO 2
 http://192.168.100.209:5216/beesport/HBO_2_Live_TV
-#EXTINF:-1 tvg-id="Discovery-Channel" tvg-name="Discovery Channel" tvg-logo="https://assets.livednow.com/logo/Discovery-Channel.png" group-title="探索自然", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery-Channel" tvg-name="Discovery Channel" tvg-logo="https://assets.livednow.com/logo/Discovery-Channel.png" group-title="体育", Discovery Channel
 http://192.168.100.209:5216/beesport/Discovery_Channel_Live_TV
-#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://assets.livednow.com/logo/Discovery-Life.png" group-title="探索自然", Discovery Life
+#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://assets.livednow.com/logo/Discovery-Life.png" group-title="体育", Discovery Life
 http://192.168.100.209:5216/beesport/Discovery_Life_Live_TV
 #EXTINF:-1 tvg-id="Cinemax-West" tvg-name="Cinemax West" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="体育", Cinemax West
 http://192.168.100.209:5216/beesport/Cinemax_West_Live_TV
@@ -1250,16 +1128,8 @@ http://192.168.100.209:35455/douyin/575144254842
 http://192.168.100.209:35455/douyu/3243427
 #EXTINF:-1  group-title="影视",李子柒
 http://192.168.100.209:35455/huya/21969336
-#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://assets.livednow.com/logo/梨园频道.png" group-title="影视", 梨园频道
-http://192.168.100.209:5216/sxg/ly
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://assets.livednow.com/logo/武术世界.png" group-title="影视", 武术世界
-http://192.168.100.209:5216/sxg/wssj
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
 http://192.168.100.209:35455/douyu/4332
-#EXTINF:-1  group-title="影视",1905国外电影
-http://192.168.100.209:2345/1905.php?id=1905a
-#EXTINF:-1  group-title="影视",1905国内电影
-http://192.168.100.209:2345/1905.php?id=1905b
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="影视", 周星驰
 http://192.168.100.209:35455/huya/11342412
 #EXTINF:-1  group-title="影视",王晶作品
