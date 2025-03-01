@@ -1,34 +1,34 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1  group-title="影视",乡村爱情联播
-http://192.168.50.80:35455/huya/30080255
+http://192.168.50.85:35455/huya/30080255
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
-http://192.168.50.80:35455/douyu/3243427
+http://192.168.50.85:35455/douyu/3243427
 #EXTINF:-1  group-title="影视",李子柒
-http://192.168.50.80:35455/huya/21969336
+http://192.168.50.85:35455/huya/21969336
 #EXTINF:-1 tvg-logo="https://article-fd.zol-img.com.cn/t_s640x2000/g5/M00/00/09/ChMkJ1ilGdGIIqptAABpKm3jRy0AAZ-lQL4T7YAAGlC493.jpg" group-title="影视",IMAX厅
-http://192.168.50.80:35455/douyu/4332
+http://192.168.50.85:35455/douyu/4332
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="影视", 周星驰
-http://192.168.50.80:35455/huya/11342412
+http://192.168.50.85:35455/huya/11342412
 #EXTINF:-1  group-title="影视",王晶作品
-http://192.168.50.80:35455/huya/11602058
+http://192.168.50.85:35455/huya/11602058
 #EXTINF:-1  group-title="影视",周润发
-http://192.168.50.80:35455/huya/11342387
+http://192.168.50.85:35455/huya/11342387
 #EXTINF:-1  group-title="影视",刘德华
-http://192.168.50.80:35455/huya/11342424
+http://192.168.50.85:35455/huya/11342424
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
-http://192.168.50.80:35455/douyu/3379942
+http://192.168.50.85:35455/douyu/3379942
 #EXTINF:-1 tvg-logo="https://p5.itc.cn/images01/20220624/fa7a67f3b78d4d4dacc203d4b5b32d5a.jpeg" group-title="影视",成龙
-http://192.168.50.80:35455/huya/11342386
+http://192.168.50.85:35455/huya/11342386
 #EXTINF:-1  group-title="影视",林正英
-http://192.168.50.80:35455/huya/11342421
+http://192.168.50.85:35455/huya/11342421
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=838445859,209975853&fm=253&fmt=auto&app=138&f=PNG?w=220&h=203" group-title="影视",洪金宝
-http://192.168.50.80:35455/huya/11279251
+http://192.168.50.85:35455/huya/11279251
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=2465710876,2550461123&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=710" group-title="影视",甄子丹
-http://192.168.50.80:35455/huya/11352935
+http://192.168.50.85:35455/huya/11352935
 #EXTINF:-1  group-title="影视",李连杰
-http://192.168.50.80:35455/huya/11342390
+http://192.168.50.85:35455/huya/11342390
 #EXTINF:-1  group-title="影视",沈腾
-http://192.168.50.80:35455/huya/11601968
+http://192.168.50.85:35455/huya/11601968
 #EXTINF:-1  group-title="影视",安徽阜阳教育
 http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
 #EXTINF:-1  group-title="影视",安徽阜阳生活
