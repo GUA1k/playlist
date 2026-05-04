@@ -1,5 +1,7 @@
-#EXTINF:-1  group-title="影视",男生女生向前冲
+#EXTINF:-1  group-title="影视",快乐向前冲（rid）
 http://192.168.50.85:35455/douyin/rid/575144254842
+#EXTINF:-1  group-title="影视",快乐向前冲(uid)
+http://192.168.50.85:35455/douyin/uid/klxqc2009
 #EXTINF:-1 tvg-logo="https://tvax4.sinaimg.cn/crop.0.0.512.512.180/006Cc5Yily8fqsgzw83c2j30e80e8t9h.jpg?KID=imgbed,tva&Expires=1675935493&ssig=VA1qAV4SpK" group-title="影视",滇西小哥 4K
 http://192.168.50.85:35455/douyu/3243427
 #EXTINF:-1  group-title="影视",李子柒
