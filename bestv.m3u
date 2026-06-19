@@ -1,3 +1,12 @@
+#EXTINF:-1  group-title="影视",FUSSBALL.TV 1 UHD
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+#EXTINF:-1  group-title="影视",FUSSBALL.TV 2 UHD
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+#EXTINF:-1  group-title="影视",FUSSBALL.TV 3 UHD
+https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
+1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
 #EXTINF:-1  group-title="影视",快乐向前冲（rid）
 http://192.168.50.85:35455/douyin/rid/575144254842
 #EXTINF:-1  group-title="影视",快乐向前冲(uid)
