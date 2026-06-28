@@ -1,29 +1,5 @@
-#EXTINF:-1  group-title="影视",1台
-https://iptv.852851.xyz/ch/a1e1f83bd470bec31e1540093438a5c7/master.m3u8
-#EXTINF:-1  group-title="影视",2台
-https://iptv.852851.xyz/ch/667741f228996f28da24100c4dc78630/master.m3u8
-#EXTINF:-1  group-title="影视",GD体育
-https://iptv.852851.xyz/ch/980212015e30f3168d4823ea3d79f278/master.m3u8
-#EXTINF:-1  group-title="影视",1 UHD
-https://iptv.852851.xyz/ch/9ad2c65b895ebcaa252259078ae5db64/master.m3u8
-#EXTINF:-1  group-title="影视",TSN 4K
-https://iptv.852851.xyz/ch/6e6fbc3c7498ef8dd68ef39fa6ba39d3/master.m3u8
-#EXTINF:-1  group-title="影视",618
-https://iptv.852851.xyz/ch/06c3d6b8d55e423e017192cb420ab190/master.m3u8
-#EXTINF:-1  group-title="影视",619
-https://iptv.852851.xyz/ch/548692242e9c5efc5a0be36de6591a35/master.m3u8
-#EXTINF:-1  group-title="影视",FOX
-https://iptv.852851.xyz/ch/96b26deae681ada09f666ed8f20b3c85/master.m3u8
-#EXTINF:-1  group-title="影视",FOX
-https://iptv.852851.xyz/ch/43c5f0b6182021436a6a68d50c488ae9/master.m3u8
-#EXTINF:-1  group-title="影视",BC Stream 41 UHD
-https://iptv.852851.xyz/ch/7e1af08728a5e1427b1875edd24e181b/master.m3u8
-#EXTINF:-1  group-title="影视",BC Stream 42 UHD
-https://iptv.852851.xyz/ch/595f291e7b975965a49d7a1ae474ee38/master.m3u8
-#EXTINF:-1  group-title="影视",BC Stream 43 UHD
-https://iptv.852851.xyz/ch/4ca7c376bebd5ad0243053bfa5a53331/master.m3u8
-#EXTINF:-1  group-title="影视",BC Stream 44 UHD
-https://iptv.852851.xyz/ch/56b66893d31f0a9d61aa7d8daa8fee17/master.m3u8
+#EXTINF:-1  group-title="影视",马有才大闯关
+http://192.168.50.85:35455/douyin/rid/211391234034
 #EXTINF:-1  group-title="影视",男生女生向前冲
 http://192.168.50.85:35455/douyin/rid/38274317216
 #EXTINF:-1  group-title="影视",快乐向前冲（rid)
